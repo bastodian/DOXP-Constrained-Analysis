@@ -1,0 +1,38 @@
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20120412  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			Dxs_1089_manual_regions.phy
+. Data set: 				#1
+. Tree topology search : 		Best of NNIs and SPRs
+. Initial tree: 			user tree (/home/bastodian/Dropbox/DOXP/August-2014_DOXP_Alignments/Constrained_Tree_Taxa_Manual_Regions/ConstrainedAnalysis/Dxs/Dxs_1089_manual_regions.H3.tre)
+. Model of amino acids substitution: 	LG
+. Number of taxa: 			78
+. Log-likelihood: 			-34805.18802
+. Unconstrained likelihood: 		-5144.25529
+. Parsimony: 				6710
+. Tree size: 				21.00916
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		0.929
+. Proportion of invariant: 		0.126
+
+. Run ID:				Dxs_1089_manual_regions.H3
+. Random seed:				1409611611
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				1h3m18s (3798 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

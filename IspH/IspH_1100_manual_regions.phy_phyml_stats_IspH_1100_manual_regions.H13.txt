@@ -1,0 +1,38 @@
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20120412  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			IspH_1100_manual_regions.phy
+. Data set: 				#1
+. Tree topology search : 		Best of NNIs and SPRs
+. Initial tree: 			user tree (IspH_1100_manual_regions.H13.tre)
+. Model of amino acids substitution: 	LG
+. Number of taxa: 			81
+. Log-likelihood: 			-25469.31166
+. Unconstrained likelihood: 		-2940.36012
+. Parsimony: 				5131
+. Tree size: 				26.15985
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		0.777
+. Proportion of invariant: 		0.086
+
+. Run ID:				H13
+. Random seed:				1410386029
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h59m23s (3563 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

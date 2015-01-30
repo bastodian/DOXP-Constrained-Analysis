@@ -1,0 +1,4032 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+ no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:								 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+ 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:			
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated		 LG
+                . Proportion of invariable sites:		
+                . 'Middle' of each rate class:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated	 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:			
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+	 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)                . Optimise tree topology:			
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters: yes
+                . Tree topology search:				 Best of NNIs and SPRs	 yes
+
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:	
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+		 no
+                . Version:			                . Run ID:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+		 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename:				 IspE_1094_manual_regions.phy
+                . Data type:					 aa
+                . Alphabet size:				 20
+                . Sequence format:				 interleaved
+                . Number of data sets:				 1
+                . Nb of bootstrapped data sets:			 0
+                . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+                . Model name:					 LG
+                . Proportion of invariable sites:		 estimated
+                . Number of subst. rate categs:			 4
+                . Gamma distribution parameter:			 estimated
+                . 'Middle' of each rate class:			 mean
+                . Amino acid equilibrium frequencies:		 model
+                . Optimise tree topology:			 yes
+                . Tree topology search:				 Best of NNIs and SPRs
+                . Starting tree:				 user tree (IspE_1094_manual_regions.H3.tre)
+                . Add random input tree:			 no
+                . Optimise branch lengths:			 yes
+                . Optimise substitution model parameters:	 yes
+                . Run ID:					 IspE_1094_manual_regions.H3
+                . Random seed:					 1409634473
+                . Subtree patterns aliasing:			 no
+                . Version:					 20120412
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+
+. 122 sites without polymorphism (31.61%).
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. Reading tree...
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. Reading tree...
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+. Reading tree...
+. Reading tree...
+. Reading tree...
+. Reading tree...
+. Reading tree...
+. Reading tree...
+. Reading tree...
+
+. Computing branch length estimates...
+
+. Reading tree...
+. Reading tree...
+. Reading tree...
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+. Reading tree...
+. Reading tree...
+. Reading tree...
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+. 312 patterns found (out of a total of 386 sites). 
+
+. 122 sites without polymorphism (31.61%).
+
+
+. Computing branch length estimates...
+
+. Reading tree...
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+
+. Computing branch length estimates...
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. Computing branch length estimates...
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+
+. This analysis requires at least 45 Mo of memory space.
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Refining the input tree...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. Maximizing likelihood (using NNI moves)...
+
+. (  155 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  155 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  155 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  155 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  155 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  155 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  155 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  155 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  155 sec) [    -16941.2661] [Topology           ]
+. (  155 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  155 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  156 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  156 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  156 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  156 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  156 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  156 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  156 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  156 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  156 sec) [    -16941.2661] [Topology           ]
+. (  157 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  157 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  157 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  157 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  157 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  157 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  157 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  157 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  157 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  157 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  158 sec) [    -16941.2661] [Topology           ]
+. (  158 sec) [    -16941.2661] [Topology           ]
+. (  158 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  158 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  158 sec) [    -16941.2661] [Topology           ]
+. (  158 sec) [    -16941.2661] [Alpha              ][  0.832773]
+. (  158 sec) [    -16941.2661] [P-inv              ][  0.050078]
+. (  158 sec) [    -16941.2661] [Topology           ]
+. (  158 sec) [    -16941.2661] [Topology           ]
+. (  158 sec) [    -16941.2661] [Topology           ]
+. (  158 sec) [    -16941.2661] [Topology           ][# nnis=  2][# nnis=  2]
+. (  161 sec) [    -16941.2362] [Topology           ]
+. (  161 sec) [    -16941.2362] [Topology           ][# nnis=  2][# nnis=  2][# nnis=  2][# nnis=  2]
+. (  162 sec) [    -16941.2362] [Topology           ][# nnis=  2]
+. (  162 sec) [    -16941.2362] [Topology           ][# nnis=  2][# nnis=  2]
+. (  162 sec) [    -16941.2362] [Topology           ]
+. (  162 sec) [    -16941.2362] [Topology           ]
+. (  162 sec) [    -16941.2362] [Topology           ]
+. (  162 sec) [    -16941.2362] [Topology           ]
+. (  162 sec) [    -16941.2362] [Topology           ][# nnis=  2]
+. (  163 sec) [    -16941.2362] [Topology           ][# nnis=  2][# nnis=  2][# nnis=  2][# nnis=  2]
+. (  163 sec) [    -16941.2362] [Topology           ]
+. (  163 sec) [    -16941.2362] [Topology           ]
+. (  163 sec) [    -16941.2362] [Topology           ]
+. (  164 sec) [    -16941.2362] [Topology           ][# nnis=  2]
+. (  164 sec) [    -16941.2362] [Topology           ][# nnis=  2]
+. (  164 sec) [    -16941.2362] [Topology           ][# nnis=  2]
+. (  167 sec) [    -16940.1711] [Topology           ][# nnis=  2][# nnis=  2]
+. (  167 sec) [    -16940.1711] [Topology           ][# nnis=  2][# nnis=  2][# nnis=  2]
+. (  167 sec) [    -16940.1711] [Topology           ]
+. (  167 sec) [    -16940.1711] [Topology           ][# nnis=  2][# nnis=  2][# nnis=  2]
+. (  167 sec) [    -16940.1711] [Topology           ]
+. (  168 sec) [    -16940.1711] [Topology           ]
+. (  168 sec) [    -16940.1711] [Topology           ]
+. (  168 sec) [    -16940.1711] [Topology           ]
+. (  168 sec) [    -16940.1711] [Topology           ][# nnis=  2]
+. (  169 sec) [    -16940.1711] [Topology           ][# nnis=  2][# nnis=  2]
+. (  169 sec) [    -16940.1711] [Topology           ]
+. (  169 sec) [    -16940.1711] [Topology           ][# nnis=  2][# nnis=  2]
+. (  169 sec) [    -16940.1711] [Topology           ]
+. (  169 sec) [    -16940.1711] [Topology           ][# nnis=  2][# nnis=  2]
+. (  170 sec) [    -16940.1711] [Topology           ]
+. (  170 sec) [    -16940.1711] [Topology           ][# nnis=  1]
+. (  172 sec) [    -16937.8952] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  173 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  173 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  173 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  173 sec) [    -16937.8952] [Topology           ]
+. (  173 sec) [    -16937.8952] [Topology           ][# nnis=  1][# nnis=  1]
+. (  174 sec) [    -16937.8952] [Topology           ]
+. (  174 sec) [    -16937.8952] [Topology           ]
+. (  174 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  174 sec) [    -16937.8952] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  175 sec) [    -16937.8952] [Topology           ]
+. (  175 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  175 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  175 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  175 sec) [    -16937.8952] [Topology           ]
+. (  176 sec) [    -16937.8952] [Topology           ][# nnis=  1]
+. (  178 sec) [    -16936.5209] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  179 sec) [    -16936.5209] [Topology           ][# nnis=  1]
+. (  179 sec) [    -16936.5209] [Topology           ]
+. (  179 sec) [    -16936.5209] [Topology           ][# nnis=  1]
+. (  179 sec) [    -16936.5209] [Topology           ]
+. (  179 sec) [    -16936.5209] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  180 sec) [    -16936.5209] [Topology           ]
+. (  180 sec) [    -16936.5209] [Topology           ]
+. (  180 sec) [    -16936.5209] [Topology           ][# nnis=  1]
+. (  180 sec) [    -16936.5209] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  181 sec) [    -16936.5209] [Topology           ]
+. (  181 sec) [    -16936.5209] [Topology           ]
+. (  181 sec) [    -16936.5209] [Topology           ][# nnis=  1][# nnis=  1]
+. (  181 sec) [    -16936.5209] [Topology           ]
+. (  181 sec) [    -16936.5209] [Topology           ][# nnis=  1]
+. (  182 sec) [    -16936.5209] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  184 sec) [    -16935.5065] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+. (  185 sec) [    -16935.5065] [Topology           ]
+
+. Moving backward
+
+. (  185 sec) [    -16935.5065] [Topology           ]
+
+. Moving backward
+
+. (  185 sec) [    -16935.5065] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  185 sec) [    -16935.5065] [Topology           ]
+
+. Moving backward
+
+. (  185 sec) [    -16935.5065] [Topology           ]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  186 sec) [    -16935.5065] [Topology           ]
+. (  186 sec) [    -16935.5065] [Topology           ]
+
+. Moving backward
+
+. (  186 sec) [    -16935.5065] [Topology           ][# nnis=  1][# nnis=  1]
+. (  186 sec) [    -16935.5065] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+. (  187 sec) [    -16935.5065] [Topology           ]
+. (  187 sec) [    -16935.5065] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  187 sec) [    -16935.5065] [Topology           ]
+
+. Moving backward
+
+. (  187 sec) [    -16935.5065] [Topology           ]
+. (  187 sec) [    -16935.5065] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  188 sec) [    -16935.5065] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  190 sec) [    -16934.7890] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+. (  191 sec) [    -16934.7890] [Topology           ]
+
+. Moving backward
+
+. (  191 sec) [    -16934.7890] [Topology           ]
+
+. Moving backward
+
+. (  191 sec) [    -16934.7890] [Topology           ][# nnis=  1][# nnis=  1]
+. (  191 sec) [    -16934.7890] [Topology           ]
+. (  191 sec) [    -16934.7890] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+
+. (  192 sec) [    -16934.7890] [Topology           ]
+. (  192 sec) [    -16934.7890] [Topology           ]
+. (  192 sec) [    -16934.7890] [Topology           ][# nnis=  1]
+. (  192 sec) [    -16934.7890] [Topology           ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  193 sec) [    -16934.7890] [Topology           ]
+
+. Moving backward
+
+. (  193 sec) [    -16934.7890] [Topology           ][# nnis=  1]
+. (  193 sec) [    -16934.7890] [Topology           ]
+. (  193 sec) [    -16934.7890] [Topology           ]
+
+. Moving backward
+
+. (  194 sec) [    -16934.7890] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  195 sec) [    -16934.7890] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  196 sec) [    -16934.3876] [Topology           ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  197 sec) [    -16934.3876] [Topology           ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+. (  197 sec) [    -16934.3876] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  198 sec) [    -16934.3876] [Topology           ]
+. (  198 sec) [    -16934.3876] [Topology           ]
+. (  198 sec) [    -16934.3876] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+. (  198 sec) [    -16934.3876] [Topology           ]
+. (  198 sec) [    -16934.3876] [Topology           ]
+. (  198 sec) [    -16934.3876] [Topology           ]
+. (  199 sec) [    -16934.3876] [Topology           ]
+
+. Moving backward
+[# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+. (  199 sec) [    -16934.3876] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+. (  199 sec) [    -16934.3876] [Topology           ]
+. (  199 sec) [    -16934.3876] [Topology           ]
+. (  199 sec) [    -16934.3876] [Topology           ]
+
+. Moving backward
+
+. (  200 sec) [    -16934.3876] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  201 sec) [    -16934.3876] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  202 sec) [    -16934.1327] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+. (  203 sec) [    -16934.1327] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+. (  203 sec) [    -16934.1327] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  204 sec) [    -16934.1327] [Topology           ][# nnis=  1]
+. (  204 sec) [    -16934.1327] [Topology           ]
+. (  204 sec) [    -16934.1327] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+. (  204 sec) [    -16934.1327] [Topology           ]
+. (  205 sec) [    -16934.1327] [Topology           ]
+
+. Moving backward
+
+. (  205 sec) [    -16934.1327] [Topology           ][# nnis=  1][# nnis=  1]
+. (  205 sec) [    -16934.1327] [Topology           ][# nnis=  1]
+. (  205 sec) [    -16934.1327] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+. (  205 sec) [    -16934.1327] [Topology           ]
+. (  206 sec) [    -16934.1327] [Topology           ]
+. (  206 sec) [    -16934.1327] [Topology           ]
+
+. Moving backward
+
+. (  206 sec) [    -16934.1327] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  208 sec) [    -16934.1327] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  208 sec) [    -16933.9622] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+. (  209 sec) [    -16933.9622] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+. (  210 sec) [    -16933.9622] [Topology           ]
+. (  210 sec) [    -16933.9622] [Topology           ]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  210 sec) [    -16933.9622] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  210 sec) [    -16933.9622] [Topology           ]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+. (  211 sec) [    -16933.9622] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  211 sec) [    -16933.9622] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+. (  211 sec) [    -16933.9622] [Topology           ][# nnis=  1]
+. (  211 sec) [    -16933.9622] [Topology           ]
+
+. Moving backward
+
+. (  211 sec) [    -16933.9622] [Topology           ]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  212 sec) [    -16933.9622] [Topology           ]
+
+. Moving backward
+
+. (  212 sec) [    -16933.9622] [Topology           ]
+. (  212 sec) [    -16933.9622] [Topology           ]
+. (  212 sec) [    -16933.9622] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  214 sec) [    -16933.9622] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  224 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  224 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  225 sec) [    -16932.5376] [Topology           ]
+. (  225 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  225 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  225 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  225 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  226 sec) [    -16932.5376] [Topology           ]
+. (  226 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  226 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  226 sec) [    -16932.5376] [Topology           ]
+. (  226 sec) [    -16932.5376] [Topology           ]
+. (  226 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  226 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  226 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  226 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  227 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  227 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  227 sec) [    -16932.5376] [Topology           ]
+. (  227 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  227 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  227 sec) [    -16932.5376] [Topology           ]
+. (  227 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  227 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  227 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  227 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  227 sec) [    -16932.5376] [Topology           ]
+. (  227 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  227 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  228 sec) [    -16932.5376] [Topology           ]
+. (  228 sec) [    -16932.5376] [Topology           ]
+. (  228 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  228 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  228 sec) [    -16932.5376] [Topology           ]
+. (  228 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  228 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  228 sec) [    -16932.5376] [Topology           ]
+. (  228 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  228 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  228 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  228 sec) [    -16932.5376] [P-inv              ][  0.049473]
+. (  228 sec) [    -16932.5376] [Topology           ]
+. (  229 sec) [    -16932.5376] [Topology           ]
+. (  229 sec) [    -16932.5376] [Topology           ]
+. (  229 sec) [    -16932.5376] [Topology           ][# nnis=  1]
+. (  230 sec) [    -16932.5318] [Topology           ]
+. (  231 sec) [    -16932.5376] [Alpha              ][  0.828647]
+. (  231 sec) [    -16932.5376] [P-inv              ][  0.049473][# nnis=  1]
+. (  231 sec) [    -16932.5376] [Topology           ]
+. (  231 sec) [    -16932.5318] [Topology           ][# nnis=  1][# nnis=  1]
+. (  232 sec) [    -16932.5318] [Topology           ]
+. (  232 sec) [    -16932.5318] [Topology           ][# nnis=  1][# nnis=  1]
+. (  233 sec) [    -16932.5318] [Topology           ]
+. (  233 sec) [    -16932.5318] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  233 sec) [    -16932.5318] [Topology           ]
+. (  233 sec) [    -16932.5318] [Topology           ]
+. (  234 sec) [    -16932.5318] [Topology           ][# nnis=  1]
+. (  234 sec) [    -16932.5318] [Topology           ]
+. (  234 sec) [    -16932.5318] [Topology           ][# nnis=  1]
+. (  234 sec) [    -16932.5318] [Topology           ][# nnis=  1][# nnis=  1]
+. (  234 sec) [    -16932.5318] [Topology           ][# nnis=  1]
+. (  235 sec) [    -16932.5318] [Topology           ]
+. (  235 sec) [    -16932.5318] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  237 sec) [    -16932.5302] [Topology           ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+. (  237 sec) [    -16932.5318] [Topology           ]
+. (  237 sec) [    -16932.5302] [Topology           ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  238 sec) [    -16932.5302] [Topology           ][# nnis=  1]
+. (  238 sec) [    -16932.5302] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  239 sec) [    -16932.5302] [Topology           ]
+. (  239 sec) [    -16932.5302] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+. (  240 sec) [    -16932.5302] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  240 sec) [    -16932.5302] [Topology           ][# nnis=  1]
+. (  240 sec) [    -16932.5302] [Topology           ]
+
+. Moving backward
+
+. (  240 sec) [    -16932.5302] [Topology           ]
+. (  240 sec) [    -16932.5302] [Topology           ][# nnis=  1][# nnis=  1]
+. (  240 sec) [    -16932.5302] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+. (  241 sec) [    -16932.5302] [Topology           ]
+. (  241 sec) [    -16932.5302] [Topology           ]
+
+. Moving backward
+
+. (  241 sec) [    -16932.5302] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+. (  243 sec) [    -16932.5291] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  243 sec) [    -16932.5302] [Topology           ]
+. (  243 sec) [    -16932.5291] [Topology           ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  244 sec) [    -16932.5291] [Topology           ][# nnis=  1][# nnis=  1]
+. (  244 sec) [    -16932.5291] [Topology           ]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  245 sec) [    -16932.5291] [Topology           ]
+. (  245 sec) [    -16932.5291] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+. (  246 sec) [    -16932.5291] [Topology           ]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  246 sec) [    -16932.5291] [Topology           ]
+
+. Moving backward
+
+. (  246 sec) [    -16932.5291] [Topology           ]
+. (  246 sec) [    -16932.5291] [Topology           ]
+. (  246 sec) [    -16932.5291] [Topology           ][# nnis=  1]
+. (  246 sec) [    -16932.5291] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  247 sec) [    -16932.5291] [Topology           ][# nnis=  1]
+. (  247 sec) [    -16932.5291] [Topology           ]
+
+. Moving backward
+
+. (  248 sec) [    -16932.5291] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  249 sec) [    -16932.5283] [Topology           ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  249 sec) [    -16932.5291] [Topology           ][# nnis=  1]
+. (  250 sec) [    -16932.5283] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+. (  250 sec) [    -16932.5283] [Topology           ]
+
+. Moving backward
+
+. (  250 sec) [    -16932.5283] [Topology           ]
+
+. Moving backward
+
+. (  251 sec) [    -16932.5283] [Topology           ]
+. (  251 sec) [    -16932.5283] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+. (  252 sec) [    -16932.5283] [Topology           ][# nnis=  1]
+
+. Moving backward
+[# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+
+. (  252 sec) [    -16932.5283] [Topology           ][# nnis=  1]
+. (  252 sec) [    -16932.5283] [Topology           ]
+. (  252 sec) [    -16932.5283] [Topology           ]
+. (  252 sec) [    -16932.5283] [Topology           ]
+. (  253 sec) [    -16932.5283] [Topology           ]
+
+. Moving backward
+[# nnis=  1]
+. (  253 sec) [    -16932.5283] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  254 sec) [    -16932.5283] [Topology           ]
+. (  254 sec) [    -16932.5283] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  256 sec) [    -16932.5283] [Topology           ]
+. (  258 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  258 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  259 sec) [    -16932.5246] [Topology           ]
+. (  259 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  259 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  260 sec) [    -16932.5246] [Topology           ]
+. (  260 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  260 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  260 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  260 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  260 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  260 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  260 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  260 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  261 sec) [    -16932.5246] [Topology           ]
+. (  261 sec) [    -16932.5246] [Topology           ]
+. (  261 sec) [    -16932.5246] [Topology           ]
+. (  261 sec) [    -16932.5246] [Topology           ]
+. (  261 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  261 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  262 sec) [    -16932.5246] [Topology           ]
+. (  262 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  262 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  262 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  262 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  262 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  262 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  262 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  262 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  262 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  262 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  262 sec) [    -16932.5246] [Topology           ]
+. (  262 sec) [    -16932.5246] [Topology           ]
+. (  263 sec) [    -16932.5246] [Topology           ]
+. (  263 sec) [    -16932.5246] [Topology           ]
+. (  263 sec) [    -16932.5246] [Topology           ]
+. (  263 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  263 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  263 sec) [    -16932.5246] [Topology           ]
+. (  264 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  264 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  264 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  264 sec) [    -16932.5246] [P-inv              ][  0.049473]
+. (  264 sec) [    -16932.5246] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  264 sec) [    -16932.5246] [Topology           ]
+. (  265 sec) [    -16932.5245] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  266 sec) [    -16932.5245] [Topology           ]
+. (  266 sec) [    -16932.5246] [Alpha              ][  0.828647]
+. (  266 sec) [    -16932.5246] [P-inv              ][  0.049473][# nnis=  1][# nnis=  1][# nnis=  1]
+. (  266 sec) [    -16932.5246] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+
+
+. Moving backward
+
+. (  267 sec) [    -16932.5245] [Topology           ]
+. (  267 sec) [    -16932.5245] [Topology           ]
+. (  267 sec) [    -16932.5245] [Topology           ]
+. (  267 sec) [    -16932.5245] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  268 sec) [    -16932.5245] [Topology           ][# nnis=  1][# nnis=  1][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  269 sec) [    -16932.5245] [Topology           ]
+. (  269 sec) [    -16932.5245] [Topology           ]
+
+. Moving backward
+
+. (  269 sec) [    -16932.5245] [Topology           ]
+. (  269 sec) [    -16932.5245] [Topology           ][# nnis=  1]
+. (  269 sec) [    -16932.5245] [Topology           ]
+
+. Moving backward
+[# nnis=  1]
+. (  270 sec) [    -16932.5245] [Topology           ]
+
+. Moving backward
+[# nnis=  1]
+. (  270 sec) [    -16932.5245] [Topology           ]
+
+. Moving backward
+
+. (  271 sec) [    -16932.5245] [Topology           ][# nnis=  1]
+
+. Moving backward
+
+. (  273 sec) [    -16932.5245] [Topology           ]
+. (  274 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  274 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  275 sec) [    -16932.5244] [Topology           ]
+. (  275 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  275 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  276 sec) [    -16932.5244] [Topology           ]
+. (  276 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  276 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  276 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  276 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  276 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  276 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  277 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  277 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  277 sec) [    -16932.5244] [Topology           ]
+. (  277 sec) [    -16932.5244] [Topology           ]
+. (  277 sec) [    -16932.5244] [Topology           ]
+. (  277 sec) [    -16932.5244] [Topology           ]
+. (  277 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  277 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  278 sec) [    -16932.5244] [Topology           ]
+. (  278 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  278 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  278 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  278 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  279 sec) [    -16932.5244] [Topology           ]
+. (  279 sec) [    -16932.5244] [Topology           ]
+. (  279 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  279 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  279 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  279 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  279 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  279 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  280 sec) [    -16932.5244] [Topology           ]
+. (  280 sec) [    -16932.5244] [Topology           ]
+. (  280 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  280 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  280 sec) [    -16932.5244] [Topology           ]
+. (  280 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  280 sec) [    -16932.5244] [P-inv              ][  0.049473][# nnis=  1]
+. (  280 sec) [    -16932.5244] [Topology           ]
+. (  280 sec) [    -16932.5244] [Topology           ]
+
+. Moving backward
+
+. (  280 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  280 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  281 sec) [    -16932.5244] [Topology           ]
+. (  281 sec) [    -16932.5244] [Topology           ]
+. (  281 sec) [    -16932.5244] [Branch lengths     ][# nnis=  1]
+
+. Moving backward
+
+. (  282 sec) [    -16932.5244] [Topology           ]
+. (  282 sec) [    -16932.5244] [Branch lengths     ][# nnis=  1]
+. (  282 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  282 sec) [    -16932.5244] [P-inv              ][  0.049473][# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  283 sec) [    -16932.5244] [Topology           ]
+. (  283 sec) [    -16932.5244] [Topology           ]
+
+. Moving backward
+
+. (  283 sec) [    -16932.5244] [Topology           ][# nnis=  1]
+. (  283 sec) [    -16932.5244] [Branch lengths     ]
+. (  283 sec) [    -16932.5244] [Topology           ]
+. (  283 sec) [    -16932.5244] [Branch lengths     ]
+. (  283 sec) [    -16932.5244] [Topology           ]
+
+. Moving backward
+
+. (  284 sec) [    -16932.5244] [Branch lengths     ]
+. (  284 sec) [    -16932.5244] [Branch lengths     ]
+. (  284 sec) [    -16932.5244] [Topology           ]
+. (  284 sec) [    -16932.5244] [Branch lengths     ][# nnis=  1][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+
+. (  285 sec) [    -16932.5244] [Topology           ]
+. (  285 sec) [    -16932.5244] [Topology           ]
+. (  285 sec) [    -16932.5244] [Branch lengths     ][# nnis=  1][# nnis=  1]
+. (  285 sec) [    -16932.5244] [Branch lengths     ][# nnis=  1]
+
+. Moving backward
+
+
+. Moving backward
+[# nnis=  1]
+
+. Moving backward
+
+. (  286 sec) [    -16932.5244] [Topology           ]
+. (  286 sec) [    -16932.5244] [Topology           ]
+
+. Moving backward
+
+. (  286 sec) [    -16932.5244] [Branch lengths     ]
+. (  286 sec) [    -16932.5244] [Branch lengths     ]
+. (  286 sec) [    -16932.5244] [Topology           ][# nnis=  1]
+. (  286 sec) [    -16932.5244] [Branch lengths     ]
+
+. Moving backward
+
+. (  286 sec) [    -16932.5244] [Topology           ][# nnis=  1]
+. (  287 sec) [    -16932.5244] [Branch lengths     ]
+. (  287 sec) [    -16932.5244] [Topology           ]
+
+. Moving backward
+
+. (  287 sec) [    -16932.5244] [Branch lengths     ]
+. (  287 sec) [    -16932.5244] [Topology           ]
+. (  287 sec) [    -16932.5244] [Branch lengths     ][# nnis=  1]
+
+. Moving backward
+
+. (  289 sec) [    -16932.5244] [Topology           ]
+. (  290 sec) [    -16932.5244] [Branch lengths     ]
+. (  292 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  292 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  293 sec) [    -16932.5244] [Branch lengths     ]
+. (  293 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  293 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  294 sec) [    -16932.5244] [Branch lengths     ]
+. (  295 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  295 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  295 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  295 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  295 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  295 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  295 sec) [    -16932.5244] [Branch lengths     ]
+. (  295 sec) [    -16932.5244] [Branch lengths     ]
+. (  295 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  295 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  296 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  296 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  296 sec) [    -16932.5244] [Branch lengths     ]
+. (  296 sec) [    -16932.5244] [Branch lengths     ]
+. (  296 sec) [    -16932.5244] [Branch lengths     ]
+. (  297 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  297 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  297 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  297 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  297 sec) [    -16932.5244] [Branch lengths     ]
+. (  297 sec) [    -16932.5244] [Branch lengths     ]
+. (  298 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  298 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  298 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  298 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  298 sec) [    -16932.5244] [Branch lengths     ]
+. (  298 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  298 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  299 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  299 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  299 sec) [    -16932.5244] [Branch lengths     ]
+. (  299 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  299 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  299 sec) [    -16932.5244] [Branch lengths     ]
+. (  299 sec) [    -16932.5244] [Branch lengths     ]
+. (  299 sec) [    -16932.5244] [Branch lengths     ]
+. (  300 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  300 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  300 sec) [    -16932.5244] [Branch lengths     ]
+. (  302 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  302 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  302 sec) [    -16932.5244] [Branch lengths     ]
+. (  304 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  304 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  305 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  305 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  307 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  307 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  307 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  307 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  307 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  307 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  308 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  308 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  308 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  308 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  309 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  309 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  309 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  309 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  310 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  310 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  310 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  310 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  311 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  311 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  311 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  311 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  311 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  311 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  312 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  312 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  314 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  314 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  314 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  314 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  315 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  315 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  316 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  316 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  317 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  317 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+
+. Checking for NNIs, optimizing five branches...
+
+. (  317 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  317 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  317 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  317 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+
+. Checking for NNIs, optimizing five branches...
+
+. (  318 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  318 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  318 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  318 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  319 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  319 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  320 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  320 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  320 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  320 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+
+. Checking for NNIs, optimizing five branches...
+
+. (  321 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  321 sec) [    -16932.5244] [P-inv              ][  0.049473]
+. (  321 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  321 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+
+. Checking for NNIs, optimizing five branches...
+
+. (  322 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  322 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  322 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  322 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  324 sec) [    -16932.5244] [Alpha              ][  0.828647]
+. (  324 sec) [    -16932.5244] [P-inv              ][  0.049473]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  358 sec) [    -16932.5244] [Topology           ]
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  359 sec) [    -16932.5244] [Topology           ]
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  361 sec) [    -16932.5244] [Topology           ]
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  361 sec) [    -16932.5244] [Topology           ]
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  361 sec) [    -16932.5244] [Topology           ]
+
+. (  362 sec) [    -16932.5244] [Topology           ]
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  362 sec) [    -16932.5244] [Topology           ]
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  363 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  363 sec) [    -16932.5244] [Topology           ]
+
+. (  363 sec) [    -18284.2530] [ 3770] [depth=    1]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  363 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  364 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  364 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  364 sec) [    -16932.5244] [Topology           ]
+
+. (  364 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  364 sec) [    -18284.2530] [ 3770] [depth=    1]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  364 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  365 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  365 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  365 sec) [    -16932.5244] [Topology           ]
+
+. (  365 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  365 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  365 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  365 sec) [    -16932.5244] [Topology           ]
+
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  365 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  365 sec) [    -18271.1225] [ 3762] [depth=    3]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  365 sec) [    -16932.5244] [Topology           ]
+
+. (  365 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  366 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  366 sec) [    -18333.2383] [ 3772] [depth=   12]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  366 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  366 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  366 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  366 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  366 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  366 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  366 sec) [    -16932.5244] [Topology           ]
+
+. (  366 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  366 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  366 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  366 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  366 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  366 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  366 sec) [    -18270.6648] [ 3765] [depth=    6]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  366 sec) [    -16932.5244] [Topology           ]
+
+. (  366 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  367 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  367 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  367 sec) [    -18270.6648] [ 3765] [depth=    6]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  367 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  367 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  367 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  367 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  367 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  367 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  367 sec) [    -16932.5244] [Topology           ]
+
+. (  367 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  367 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  367 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  367 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  367 sec) [    -18270.6648] [ 3765] [depth=    6]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  367 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  367 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  367 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  368 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  368 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  368 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  368 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  368 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  368 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  368 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  368 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  368 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  368 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  368 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  368 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  368 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  368 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  368 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  368 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  369 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  369 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  369 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  369 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  369 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  369 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  369 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  369 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  369 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  369 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  369 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  369 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  369 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  369 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  369 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  369 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  369 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  369 sec) [    -16932.5244] [Topology           ]
+
+. (  369 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  369 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  369 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  369 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  369 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  369 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  369 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  370 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  370 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  370 sec) [    -18063.9123] [ 3707] [depth=    3]
+
+. Maximizing likelihood (using SPR moves)...
+
+. Refining the tree...
+
+. (  370 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  370 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  370 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  370 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  370 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  370 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  370 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  370 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  370 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  370 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  370 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  370 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  370 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  370 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  370 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  370 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  370 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  370 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  370 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  370 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  370 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  370 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  370 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  371 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  371 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  371 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  371 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  371 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  371 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  371 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  371 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  371 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  371 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  371 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  371 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  371 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  371 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  371 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  371 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  371 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  371 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  371 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  371 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  371 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  371 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  371 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  371 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  371 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  371 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  371 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  371 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  371 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  371 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  371 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  371 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  372 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  372 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  372 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  372 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  372 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  372 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  372 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  372 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  372 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  372 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  372 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  372 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  372 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  372 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  372 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  372 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  372 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  372 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  372 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  372 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  372 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  372 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  372 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  372 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  372 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  372 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  372 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  372 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  372 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  372 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  372 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  373 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  373 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  373 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  373 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  373 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  373 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  373 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  373 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  373 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  373 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  373 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  373 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  373 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  373 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  373 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  373 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  373 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  373 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  373 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  373 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  373 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  373 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  373 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  373 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  373 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  373 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  373 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  373 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  373 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  373 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  373 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  373 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  373 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  373 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  373 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  374 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  374 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  374 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  374 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  374 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  374 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  374 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  374 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  374 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  374 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  374 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  374 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  374 sec) [    -18333.2383] [ 3772] [depth=   12]
+. (  374 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  374 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  374 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  374 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  374 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  374 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  374 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  374 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  374 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  374 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  374 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  374 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  374 sec) [    -18284.2530] [ 3770] [depth=    1]
+. (  374 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  374 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  374 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  374 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  375 sec) [    -18271.1225] [ 3762] [depth=    3]
+. (  375 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  375 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  375 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  375 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  375 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  375 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  375 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  375 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  375 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  375 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  375 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  375 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  375 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  375 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  375 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  375 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  375 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  375 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  375 sec) [    -18270.6648] [ 3765] [depth=    6]
+. (  375 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  375 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  375 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  375 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  375 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  375 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  375 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  375 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  375 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  375 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  376 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  376 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  376 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  376 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  376 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  376 sec) [    -18232.1425] [ 3753] [depth=    2]
+. (  376 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  376 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  376 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  376 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  376 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  376 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  376 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  376 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  376 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  376 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  376 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  376 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  376 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  376 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  376 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  376 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  376 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  376 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  376 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  376 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  376 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  376 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  376 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  376 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  376 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  377 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  377 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  377 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  377 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  377 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  377 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  377 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  377 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  377 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  377 sec) [    -18220.8598] [ 3744] [depth=    1]
+. (  377 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  377 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  377 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  377 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  377 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  377 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  377 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  377 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  377 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  377 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  377 sec) [    -18206.3610] [ 3742] [depth=    1]
+. (  377 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  377 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  377 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  377 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  377 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  377 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  377 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  377 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  378 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  378 sec) [    -18188.6945] [ 3737] [depth=    1]
+. (  378 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  378 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  378 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  378 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  378 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  378 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  378 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  378 sec) [    -18179.9080] [ 3731] [depth=    2]
+. (  378 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  378 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  378 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  378 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  378 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  378 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  378 sec) [    -18166.5637] [ 3729] [depth=    1]
+. (  378 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  378 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  378 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  378 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  378 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  378 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  378 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  378 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  378 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  378 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  378 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  379 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  379 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  379 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  379 sec) [    -18156.8012] [ 3725] [depth=    2]
+. (  379 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  379 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  379 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  379 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  379 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  379 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  379 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  379 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  379 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  379 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  379 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  379 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  379 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  379 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  379 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  379 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  379 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  379 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  379 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  379 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  379 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  380 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  380 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  380 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  380 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  380 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  380 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  380 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  380 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  380 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  380 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  380 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  380 sec) [    -18143.0347] [ 3719] [depth=    2]
+. (  380 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  380 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  380 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  380 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  380 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  380 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  380 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  380 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  380 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  380 sec) [    -18136.4828] [ 3720] [depth=    2]
+. (  380 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  380 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  380 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  381 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  381 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  381 sec) [    -18113.6242] [ 3719] [depth=    2]
+. (  381 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  381 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  381 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  381 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  381 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  381 sec) [    -18104.4528] [ 3713] [depth=    1]
+. (  381 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  381 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  381 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  381 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  381 sec) [    -18093.0736] [ 3715] [depth=    1]
+. (  381 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  381 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  381 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  381 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  381 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  381 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  381 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  381 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  382 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  382 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  382 sec) [    -18085.9984] [ 3712] [depth=    1]
+. (  382 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  382 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  382 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  382 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  382 sec) [    -18063.9123] [ 3707] [depth=    3]
+. (  382 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  382 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  382 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  382 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  382 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  382 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  382 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  382 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  382 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  382 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  382 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  382 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  382 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  382 sec) [    -18060.1289] [ 3705] [depth=    1]
+. (  382 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  382 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  382 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  382 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  382 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  383 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  383 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  383 sec) [    -17965.9678] [ 3690] [depth=    1]
+
+. (  383 sec) [    -17980.1595] [ 3696] [depth=    2]. (  383 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  383 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  383 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  383 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  383 sec) [    -18056.8400] [ 3707] [depth=    1]
+. (  383 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  383 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  383 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  383 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  383 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  383 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  383 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  383 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  383 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  383 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  383 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  383 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  383 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  383 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  383 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  383 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  383 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  383 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  384 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  384 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  384 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  384 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  384 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  384 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  384 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  384 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  384 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  384 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  384 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  384 sec) [    -18054.6238] [ 3705] [depth=    1]
+. (  384 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  384 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  384 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  384 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  384 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  384 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  384 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  384 sec) [    -18053.7166] [ 3706] [depth=    1]
+. (  385 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  385 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  385 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  385 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  385 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  385 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  385 sec) [    -18041.2143] [ 3701] [depth=    1]
+. (  385 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  385 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  385 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  385 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  385 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  385 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  385 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  385 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  385 sec) [    -18040.4612] [ 3700] [depth=    1]
+. (  385 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  386 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  386 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  386 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  386 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  386 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  386 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  386 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  386 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  386 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  386 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  386 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  386 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  386 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  386 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  386 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  386 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  386 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  386 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  386 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  386 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  386 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  386 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  386 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  387 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  387 sec) [    -18039.6622] [ 3702] [depth=    1]
+. (  387 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  387 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  387 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  387 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  387 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  387 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  387 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  387 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  387 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  387 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  387 sec) [    -18032.0793] [ 3703] [depth=    1]
+. (  387 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  387 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  387 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  387 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  387 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  387 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  387 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  387 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  387 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  387 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  387 sec) [    -18028.7190] [ 3701] [depth=    1]
+. (  387 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  387 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  388 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  388 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  388 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  388 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  388 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  388 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  388 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  388 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  388 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  388 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  388 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  388 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  388 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  388 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  388 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  388 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  388 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  388 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  388 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  388 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  388 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  388 sec) [    -18026.1546] [ 3700] [depth=    1]
+. (  388 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  388 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  388 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  388 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  388 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  389 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  389 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  389 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  389 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  389 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  389 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  389 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  389 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  389 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  389 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  389 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  389 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  389 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  389 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  389 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  389 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  389 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  389 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  389 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  389 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  389 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  389 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  389 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  389 sec) [    -18026.0641] [ 3701] [depth=    1]
+. (  389 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  389 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  390 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  390 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  390 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  390 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  390 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  390 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  390 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  390 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  390 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  390 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  390 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  390 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  390 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  390 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  390 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  390 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  390 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  390 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  390 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  390 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  390 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  390 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  390 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  390 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  390 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  390 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  390 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  390 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  390 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  391 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  391 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  391 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  391 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  391 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  391 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  391 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  391 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  391 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  391 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  391 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  391 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  391 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  391 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  391 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  391 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  391 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  391 sec) [    -18007.5734] [ 3702] [depth=    5]
+. (  391 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  391 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  391 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  391 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  391 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  391 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  391 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  391 sec) [    -17994.2702] [ 3698] [depth=    3]
+. (  391 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  391 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  391 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  391 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  391 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  391 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  391 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  391 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  391 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  392 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  392 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  392 sec) [    -17980.1595] [ 3696] [depth=    2]
+. (  392 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  392 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  392 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  392 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  392 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  392 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  392 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  392 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  392 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  392 sec) [    -17966.4015] [ 3692] [depth=    1]
+. (  392 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  392 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  392 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  392 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  392 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  392 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  392 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  392 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  392 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  392 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  392 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  392 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  392 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  392 sec) [    -17965.9678] [ 3690] [depth=    1]
+. (  392 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  392 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  392 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  393 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  393 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  393 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  393 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  393 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  393 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  393 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  393 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  393 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  393 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  393 sec) [    -17965.5353] [ 3692] [depth=    1]
+. (  393 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  393 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  393 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  393 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  393 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  393 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  393 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  393 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  393 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  393 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  393 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  393 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  393 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  393 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  393 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  393 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  393 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  394 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  394 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  394 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  394 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  394 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  394 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  394 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  394 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  394 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  394 sec) [    -17958.9663] [ 3691] [depth=    1]
+. (  394 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  394 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  394 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  394 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  394 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  394 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  394 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  394 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  394 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  394 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  394 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  394 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  394 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  394 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  394 sec) [    -17755.4727] [ 3613] [depth=    1]
+
+. (  394 sec) [    -17768.8683] [ 3621] [depth=    4]. (  394 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  394 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  394 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  394 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  394 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  394 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  394 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  394 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  395 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  395 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  395 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  395 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  395 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  395 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  395 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  395 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  395 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  395 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  395 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  395 sec) [    -17958.7833] [ 3688] [depth=    2]
+. (  395 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  395 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  395 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  395 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  395 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  395 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  395 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  395 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  395 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  395 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  395 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  395 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  395 sec) [    -17947.6516] [ 3685] [depth=    2]
+. (  395 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  395 sec) [    -17531.7917] [ 3562] [depth=    1]
+
+. (  395 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  395 sec) [    -17755.4727] [ 3613] [depth=    1]. (  395 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  395 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  395 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  395 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  395 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  395 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  395 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  396 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  396 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  396 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  396 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  396 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  396 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  396 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  396 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  396 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  396 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  396 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  396 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  396 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  396 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  396 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  396 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  396 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  396 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  396 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  396 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  396 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  396 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  396 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  396 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  396 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  396 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  396 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  396 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  397 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  397 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  397 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  397 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  397 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  397 sec) [    -17898.0884] [ 3660] [depth=    7]
+. (  397 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  397 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  397 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  397 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  397 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  397 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  397 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  397 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  397 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  397 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  397 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  397 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  397 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  397 sec) [    -17863.2982] [ 3640] [depth=   13]
+. (  397 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  397 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  397 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  397 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  397 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  398 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  398 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  398 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  398 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  398 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  398 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  398 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  398 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  398 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  398 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  398 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  398 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  398 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  398 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  398 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  398 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  398 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  398 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  398 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  398 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  398 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  398 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  398 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  398 sec) [    -17859.9444] [ 3645] [depth=    1]
+. (  398 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  398 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  399 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  399 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  399 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  399 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  399 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  399 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  399 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  399 sec) [    -17846.2116] [ 3638] [depth=    1]
+. (  399 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  399 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  399 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  399 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  399 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  399 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  399 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  399 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  399 sec) [    -17768.8683] [ 3621] [depth=    4]
+. (  399 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  399 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  399 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  399 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  399 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  399 sec) [    -17755.4727] [ 3613] [depth=    1]
+. (  399 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  399 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  399 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  400 sec) [    -17736.9446] [ 3611] [depth=    1]
+. (  400 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  400 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  400 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  400 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  400 sec) [    -17716.1774] [ 3604] [depth=    9]
+. (  400 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  400 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  400 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  400 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  400 sec) [    -17643.9470] [ 3600] [depth=    1]
+. (  400 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  400 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  400 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  400 sec) [    -17601.0876] [ 3578] [depth=   10]
+. (  400 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  401 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  401 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  401 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  401 sec) [    -17592.6465] [ 3575] [depth=    6]
+. (  401 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  401 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  401 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  401 sec) [    -17585.7214] [ 3569] [depth=    3]
+. (  401 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  401 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  401 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  402 sec) [    -17573.7026] [ 3567] [depth=    1]
+. (  402 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  402 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  402 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  402 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  402 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  402 sec) [    -17569.2331] [ 3566] [depth=    3]
+. (  402 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  402 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  402 sec) [    -17544.7296] [ 3562] [depth=    2]
+. (  402 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  402 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  402 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  402 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  403 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  403 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  403 sec) [    -17541.0520] [ 3563] [depth=    1]
+. (  403 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  403 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  403 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  403 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  403 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  403 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  403 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  403 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  403 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  403 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  403 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  403 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  403 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  403 sec) [    -17539.9532] [ 3565] [depth=    1]
+. (  403 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  403 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  404 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  404 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  404 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  404 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  404 sec) [    -17538.9546] [ 3561] [depth=    2]
+. (  404 sec) [    -17531.7917] [ 3562] [depth=    1]
+. (  404 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  404 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  404 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  404 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  404 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  404 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  405 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  405 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  405 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  406 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  406 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  406 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  406 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  406 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  407 sec) [    -17529.8388] [ 3562] [depth=    4]
+. (  407 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  407 sec) [    -17524.1058] [ 3561] [depth=    1]
+. (  407 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  407 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  407 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  407 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  407 sec) [    -17523.8073] [ 3562] [depth=    1]
+. (  408 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  408 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  408 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  408 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  408 sec) [    -17521.5885] [ 3562] [depth=    1]
+. (  408 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  408 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  408 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  409 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  409 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  410 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  411 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  411 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  411 sec) [    -17520.3813] [ 3562] [depth=    5]
+. (  411 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  411 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  412 sec) [    -17520.3167] [ 3564] [depth=    1]
+. (  412 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  412 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  412 sec) [    -17519.3278] [ 3563] [depth=    3]
+. (  413 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  413 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  413 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  413 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  413 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  413 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  413 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  414 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  414 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  414 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  414 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  414 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  414 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  414 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  414 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  414 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  414 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  414 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  415 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  415 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  415 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  415 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  415 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  415 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  415 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  415 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  415 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  415 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  415 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  415 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  415 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  416 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  416 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  416 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  416 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  416 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  416 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  416 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  416 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  416 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  416 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  417 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  417 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  417 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  417 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  417 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  417 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  417 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  417 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  417 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  417 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  417 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  417 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  418 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  418 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  418 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  418 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  418 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  418 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  418 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  418 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  418 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  418 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  418 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  418 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  419 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  419 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  419 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  419 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  419 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  419 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  419 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  419 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  419 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  419 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  419 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  419 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  420 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  420 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  420 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  420 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  420 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  420 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  420 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  420 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  420 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  420 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  420 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  420 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  420 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  420 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  420 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  421 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  421 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  421 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  421 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  421 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  421 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  421 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  421 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  421 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  421 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  421 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  422 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  422 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  422 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  422 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  422 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  422 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  422 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  423 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  423 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  423 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  423 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  423 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  423 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  423 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  423 sec) [    -17479.9264] [ 3552] [depth=    1]
+. (  423 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  424 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  424 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  424 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  424 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  424 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  424 sec) [    -17476.6052] [ 3540] [depth=    1]
+. (  424 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  424 sec) [    -17469.2370] [ 3538] [depth=    1]
+. (  424 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  424 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  424 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  424 sec) [    -17443.9401] [ 3534] [depth=    2]
+. (  425 sec) [    -17430.4236] [ 3531] [depth=    1]
+. (  425 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  425 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  426 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  426 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  426 sec) [    -17428.7692] [ 3529] [depth=    1]
+. (  427 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  427 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  427 sec) [    -17379.5374] [ 3511] [depth=    1]
+. (  428 sec) [    -17349.6134] [ 3501] [depth=    1]
+. (  428 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  428 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  429 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  429 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  429 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  429 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  429 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  429 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  429 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  429 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  430 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  430 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  431 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  431 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  431 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  432 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  432 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  433 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  433 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  433 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  433 sec) [    -17128.8688] [Alpha              ][  0.932397]
+. (  433 sec) [    -17128.8688] [P-inv              ][  0.070895]
+. (  433 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  434 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  434 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  434 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  435 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  435 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  435 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  436 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  436 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  437 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  437 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  438 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  438 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  438 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  438 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  439 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  439 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  439 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  439 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  440 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  443 sec) [    -17127.8182] [ 3501] [depth=    1]
+. (  443 sec) [    -17127.5619] [ 3501] [depth=    1]
+. (  466 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  468 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  468 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  469 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  471 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  471 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  471 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  472 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  472 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  473 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  473 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  474 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  474 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  475 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  475 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  476 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  476 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  476 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  477 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  477 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  477 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  477 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  477 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  478 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  478 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  478 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  479 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  479 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  479 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  481 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  481 sec) [    -17127.4793] [ 3501] [depth=    1]
+. (  482 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  482 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  482 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  482 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  482 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  483 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  483 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  483 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  483 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  484 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  485 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  486 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  486 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  487 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  487 sec) [    -17123.6629] [ 3500] [depth=    4]
+. (  488 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  488 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  489 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  489 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  489 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  492 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  492 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  492 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  492 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  492 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  492 sec) [    -17121.9965] [ 3499] [depth=    5]
+. (  493 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  493 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  494 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  494 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  494 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  495 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  495 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  495 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  495 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  495 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  497 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  497 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  498 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  498 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  498 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  498 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  499 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  499 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  499 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  499 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  499 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  499 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  499 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  499 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  500 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  500 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  501 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  501 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  502 sec) [    -17120.3730] [ 3503] [depth=    1]
+. (  503 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  503 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  503 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  503 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  505 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  505 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  505 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  505 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  509 sec) [    -17110.6773] [Alpha              ][  0.928276]
+. (  509 sec) [    -17110.6773] [P-inv              ][  0.070857]
+. (  523 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  523 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  525 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  525 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  526 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  526 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  527 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  527 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  529 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  529 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  529 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  529 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  530 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  530 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  530 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  530 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  531 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  531 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  532 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  532 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  533 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  533 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  535 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  535 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  535 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  535 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  537 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  537 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  538 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  538 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  540 sec) [    -16940.9884] [Alpha              ][  0.831198]
+. (  540 sec) [    -16940.9884] [P-inv              ][  0.050041]
+. (  571 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  572 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  574 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  574 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  577 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  578 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  578 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  578 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  579 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  579 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  580 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  582 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  583 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  586 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  586 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  589 sec) [    -16940.4080] [ 3500] [depth=    1]
+. (  623 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  625 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  627 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  627 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  631 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  631 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  631 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  632 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  632 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  632 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  632 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  635 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  635 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  638 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  639 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  640 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  640 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  641 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  641 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  643 sec) [    -16939.6859] [ 3502] [depth=    2]
+. (  645 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  645 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  646 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  646 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  646 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  646 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  647 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  650 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  650 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  654 sec) [    -16938.1443] [Branch lengths     ]
+. (  654 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  655 sec) [    -16938.1443] [Branch lengths     ]
+. (  655 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  657 sec) [    -16938.1443] [Branch lengths     ]
+. (  657 sec) [    -16939.1348] [ 3503] [depth=    1]
+. (  658 sec) [    -16938.1443] [Branch lengths     ]
+. (  661 sec) [    -16938.1443] [Branch lengths     ]
+. (  661 sec) [    -16938.1443] [Branch lengths     ]
+. (  661 sec) [    -16938.1443] [Branch lengths     ]
+. (  662 sec) [    -16938.1443] [Branch lengths     ]
+. (  662 sec) [    -16938.1443] [Branch lengths     ]
+. (  662 sec) [    -16938.1443] [Branch lengths     ]
+. (  663 sec) [    -16938.1443] [Branch lengths     ]
+. (  663 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  663 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  665 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  665 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  665 sec) [    -16938.1443] [Branch lengths     ]
+. (  666 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  666 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  666 sec) [    -16938.1443] [Branch lengths     ]
+. (  667 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  667 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  671 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  671 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  671 sec) [    -16938.1443] [Branch lengths     ]
+. (  671 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  671 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  671 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  671 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  671 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  671 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  672 sec) [    -16938.1443] [Branch lengths     ]
+. (  672 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  672 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  672 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  672 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  673 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  673 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  674 sec) [    -16938.1443] [Branch lengths     ]
+. (  675 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  675 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  676 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  676 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  680 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  680 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  681 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  681 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  683 sec) [    -16938.0633] [Alpha              ][  0.830367]
+. (  683 sec) [    -16938.0633] [P-inv              ][  0.049938]
+. (  798 sec) [    -16938.0630] [Branch lengths     ]
+. (  798 sec) [    -16938.0630] [Topology           ]
+. (  800 sec) [    -16938.0630] [Branch lengths     ]
+. (  800 sec) [    -16938.0630] [Topology           ]
+. (  801 sec) [    -16938.0630] [Branch lengths     ]
+. (  801 sec) [    -16938.0630] [Branch lengths     ]
+. (  801 sec) [    -16938.0630] [Topology           ]
+. (  801 sec) [    -16938.0630] [Topology           ][# nnis=  0]
+. (  804 sec) [    -16938.0630] [Branch lengths     ]
+. (  804 sec) [    -16938.0630] [Topology           ]
+. (  804 sec) [    -16938.0630] [Topology           ]
+. (  804 sec) [    -16938.0630] [Branch lengths     ]
+. (  805 sec) [    -16938.0630] [Branch lengths     ]
+. (  805 sec) [    -16938.0630] [Topology           ][# nnis=  0]
+. (  806 sec) [    -16938.0630] [Topology           ]
+. (  806 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0]
+. (  806 sec) [    -16938.0630] [Topology           ][# nnis=  0]
+. (  807 sec) [    -16938.0630] [Branch lengths     ]
+. (  807 sec) [    -16938.0630] [Branch lengths     ]
+. (  807 sec) [    -16938.0630] [Topology           ]
+. (  807 sec) [    -16938.0630] [Branch lengths     ]
+. (  807 sec) [    -16938.0630] [Topology           ]
+. (  807 sec) [    -16938.0630] [Branch lengths     ]
+. (  807 sec) [    -16938.0630] [Topology           ]
+. (  808 sec) [    -16938.0630] [Branch lengths     ]
+. (  808 sec) [    -16938.0630] [Branch lengths     ]
+. (  808 sec) [    -16938.0630] [Topology           ]
+. (  808 sec) [    -16938.0630] [Branch lengths     ]
+. (  808 sec) [    -16938.0630] [Branch lengths     ]
+. (  808 sec) [    -16938.0630] [Topology           ]
+. (  809 sec) [    -16938.0630] [Topology           ]
+. (  809 sec) [    -16938.0630] [Topology           ]
+. (  809 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0]
+. (  809 sec) [    -16938.0630] [Topology           ]
+. (  810 sec) [    -16938.0630] [Topology           ]
+. (  810 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0]
+. (  811 sec) [    -16938.0630] [Topology           ]
+. (  811 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0][# nnis=  0]
+. (  812 sec) [    -16938.0630] [Topology           ]
+. (  813 sec) [    -16938.0630] [Topology           ]
+. (  813 sec) [    -16938.0630] [Branch lengths     ]
+. (  813 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0]
+. (  814 sec) [    -16938.0630] [Topology           ][# nnis=  0][# nnis=  0]
+. (  814 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0]
+. (  814 sec) [    -16938.0630] [Topology           ]
+. (  814 sec) [    -16938.0630] [Topology           ]
+. (  814 sec) [    -16938.0630] [Topology           ]
+. (  814 sec) [    -16938.0630] [Branch lengths     ]
+. (  814 sec) [    -16938.0630] [Branch lengths     ]
+. (  815 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0]
+. (  815 sec) [    -16938.0630] [Topology           ]
+. (  815 sec) [    -16938.0630] [Branch lengths     ]
+. (  816 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  816 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  816 sec) [    -16938.0629] [Branch lengths     ]
+. (  817 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  817 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  817 sec) [    -16938.0630] [Branch lengths     ]
+. (  817 sec) [    -16938.0630] [Topology           ]
+. (  818 sec) [    -16938.0629] [Branch lengths     ]
+. (  818 sec) [    -16938.0630] [Branch lengths     ]
+. (  818 sec) [    -16938.0630] [Topology           ]
+. (  818 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  818 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  818 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  818 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  819 sec) [    -16938.0629] [Branch lengths     ]
+. (  819 sec) [    -16938.0629] [Branch lengths     ]
+. (  820 sec) [    -16938.0630] [Branch lengths     ]
+. (  821 sec) [    -16938.0630] [Topology           ]
+. (  822 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  822 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  822 sec) [    -16938.0629] [Branch lengths     ]
+. (  823 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  823 sec) [    -16938.0629] [P-inv              ][  0.049988][# nnis=  0]
+. (  823 sec) [    -16938.0629] [Branch lengths     ]
+. (  823 sec) [    -16938.0630] [Topology           ]
+. (  823 sec) [    -16938.0630] [Branch lengths     ][# nnis=  0]
+. (  824 sec) [    -16938.0630] [Topology           ]
+. (  824 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  824 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  824 sec) [    -16938.0630] [Branch lengths     ]
+. (  825 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  825 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  825 sec) [    -16938.0629] [Branch lengths     ]
+. (  825 sec) [    -16938.0629] [Branch lengths     ]
+. (  825 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  825 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  826 sec) [    -16938.0629] [Branch lengths     ][# nnis=  0]
+. (  826 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  826 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  826 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  826 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  826 sec) [    -16938.0630] [Topology           ]
+. (  827 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  827 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  827 sec) [    -16938.0630] [Branch lengths     ]
+. (  827 sec) [    -16938.0629] [Branch lengths     ]
+. (  827 sec) [    -16938.0629] [Branch lengths     ]
+. (  827 sec) [    -16938.0629] [Branch lengths     ]
+. (  827 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  827 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  828 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  828 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  828 sec) [    -16938.0629] [Branch lengths     ]
+. (  829 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  829 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  830 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  830 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  831 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  831 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  834 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  834 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  835 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  835 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  836 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  836 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  836 sec) [    -16938.0629] [Branch lengths     ]
+. (  836 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  836 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  836 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  836 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  837 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  837 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  837 sec) [    -16938.0629] [Branch lengths     ]
+. (  837 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  837 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  838 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  838 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  838 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  838 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  838 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  838 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  839 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  839 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  839 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  839 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  839 sec) [    -16938.0629] [Branch lengths     ]
+. (  839 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  839 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  840 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  840 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  840 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  840 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  841 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  841 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  844 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  844 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  845 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  845 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  846 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  846 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  847 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  847 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  847 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  847 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  848 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  848 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  848 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  848 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  849 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  849 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  849 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  849 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  850 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  850 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  850 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  850 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+
+. Checking for NNIs, optimizing five branches...
+
+. (  851 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  851 sec) [    -16938.0629] [P-inv              ][  0.049988]
+. (  858 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  858 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  859 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  859 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  860 sec) [    -16938.0629] [Alpha              ][  0.830367]
+. (  860 sec) [    -16938.0629] [P-inv              ][  0.049988]
+
+. Checking for NNIs, optimizing five branches...
+
+. (  880 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  882 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  883 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  884 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  886 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  888 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  889 sec) [    -16938.0629] [Topology           ]
+. (  889 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  890 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+. (  891 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  891 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+. (  892 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+. (  892 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  900 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  901 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. (  904 sec) [    -16938.0629] [Topology           ]
+
+. Log likelihood obtained after NNI moves : -16932.524354
+. Log likelihood obtained after SPR moves : -16938.062947
+
+. Log likelihood of the current tree: -16932.524354.
+
+. Compute fast branch supports on the most likely tree...
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m26s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m28s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m29s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m29s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m31s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m32s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m33s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m33s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m33s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m34s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m34s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m35s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m35s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m39s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m39s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Printing the most likely tree in file 'IspE_1094_manual_regions.phy_phyml_tree_IspE_1094_manual_regions.H3.txt'...
+
+. Time used 0h15m41s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

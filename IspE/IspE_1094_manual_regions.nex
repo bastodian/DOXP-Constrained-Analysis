@@ -1,0 +1,666 @@
+#NEXUS
+[written Mon Sep 01 16:03:20 EDT 2014 by Mesquite  version 2.75 (build 564) at sputnik/127.0.1.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=63;
+	TAXLABELS
+		33865587_Synechococcus_sp._WH 33240214_Prochlorococcus_marin gi|171363677|dbj|BAG14387.1|_P 75911083_Anabaena_variabilis_A 37519671_Gloeobacter_violaceus Galdieria_sulphuraria_074W_Isp Aureococcus_anophagefferans_Is comp1609_c0_seq1_Spirogyra_pra comp10525_c0_seq1_Mougeotia_sc comp40373_c4_seq1_Penium_marga comp5633_c0_seq2_Nitella_mirab comp29596_c0_seq1_Phaeophila_d 115440529_Oryza_sativa__japoni gi|330252814|gb|AEC07908.1|_Ar comp3742_c0_seq2_Mesostigma_vi comp4769_c0_seq1_Klebsormidium comp27525_c0_seq1_Pyramimonas comp29455_c0_seq11_Prasiolopsi Chlamydomonas_reinhardtii_IspE comp20141_c0_seq1_Atractomorph comp28096_c1_seq1_Tetraselmis Ostreococcus_sp_CCE9901_IspE_3 comp5546_c0_seq1_Nephroselmis comp58987_c0_seq1_Oedogonium_c comp25418_c0_seq1_Hormotilopsi comp13040_c0_seq1_Elakatothrix Cyanidioschyzon_merolae_10D_Is comp49369_c0_seq1_Phaeocystis comp74756_c1_seq3_Pleurochrysi comp72091_c0_seq1_Coccolithus comp18633_c0_seq2_Isochrysis_g jgi|Emihu1|461009|estExtDG_fge comp24837_c0_seq4_Gephyrocapsa comp89287_c0_seq1_Karenia_brev comp37878_c0_seq1_Prymnesium_p comp7661_c0_seq2_Guillardia_th comp89881_c3_seq1_Geminigera_c comp176232_c0_seq1_Karlodinium comp60961_c0_seq1_Noctiluca_sc comp46019_c0_seq1_Amphidinium comp129272_c1_seq1_Karenia_bre comp63835_c0_seq1_Dinophysis_a comp77531_c1_seq1_Heterocapsa comp38364_c0_seq1_Lingulodiniu comp36977_c7_seq4_Prorocentrum comp84759_c0_seq1_Crypthecodin comp105881_c0_seq1_Akashiwo_sa comp105041_c1_seq1_Scrippsiell comp168740_c0_seq2_Kryptoperid comp144824_c0_seq1_Glenodinium gi|510001365|gb|GAIT01018123.1 comp84190_c1_seq1_Prorocentrum comp82270_c0_seq1_Baltimore_bl comp50512_c1_seq1_Prorocentrum comp249416_c6_seq3_Polarella_g kb8_c12863_Symbiodinium_sp_cla gi|452173962|gb|GAFP01007623.1 Ectocarpus_siliculosus_IspE_29 gi|480468956|gb|GAGR01005035.1 gi|219115135|ref|XP_002178363. Thalassiosira_pseudonana_IspE comp21780_c0_seq1_Glenodinium comp150260_c0_seq1_Kryptoperid 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=386;
+	FORMAT DATATYPE = Protein GAP = - MISSING = ?;
+	MATRIX
+	33865587_Synechococcus_sp._WH   PAKVNLHLEVLGIR--SDGFHELAMVMQSIDLADRLSFQTTADAAL--TLSCDD-------PSLSLGEDNLVIRAAQLLRSRSGFNEL---GAAIHLEKRIPIGAGLAGGSSDGAAALVGLNALWGLGHSRSDLQRFAAE--LGSDMPFCVA-GGSQLCFGRGELLEPL-PAVQ---------------------------ESLAVLLVKDPRVSVSTPWAYRRC------------REL---------------------QGDRYLS-GEDAFE-QRRQVLRDM----------AWTQPIRAAEPPPLQND----------------------------------------LQEVVEPETPAVQAALRLLSTLEGTLAVAMSGSG
+	33240214_Prochlorococcus_marin  PAKINLHLEVLGFR--KDGFHELAMLMQSINLFDEIDF--LKTDNGEITLTSDD-------PNLSTGDDNLILKAAQLIQTCSSDKNV---GAEIHLKKNIPIGAGLAGGSSDAAATLVGLNSLWGIGSSEKQLEKLGSE--LGSDVPFCLR-GGTQFCFGRGESLEMI-PEIK---------------------------QSMAVVLVKDPLVEVSTPWAYSKF---------------------------------------KEIY-GNDYLK-MEEDFEKRR---QSLRDA-SWLNPLNCTNPPPLQND----------------------------------------LQKVIEPITPAVRNALEFLSSLEGVLSLAMSGSG
+	gi|171363677|dbj|BAG14387.1|_P  PAKVNTFLKITGRTNPPNPMHTMVSQFHTISLGDWVHISTTDDSK--DTLRCDD-------PSVPTDERNLVLRALDLFRRKSG-IDQ---HFHVTLTKRCPNQAGLGGGSSNGATVLWAANRLTHFGATDDTLAEWSRE--LGSDLPFFLASRGAALCCGVGDEVLPM-SPEA-------------------------VGGSKGMVFVKPS-FGLPTPAVYKEY---------------------------------------MSGA-GPAPLP-------------------------LNDLTRGALKIRPE--------------------------------------LAQLARDME--GVMGLS---------GVSMSGSG
+	75911083_Anabaena_variabilis_A  PAKINLYLEIIGDR--PDGYHELVMILQSIDLADEIEIHSLSSETI--RVHCNH-------PQVPTDKSNLVYRAAELMATKFPEAFAKYGGVDITVHKHIPVAAGLAGGSTNAAAVLVGIDLLWNLGLTQTELEELGSI--LGSDVPFCVA-GGTVIATGRGEQLSPL-PNLD----------------------------HIYIVLGKYRSLEVSTAWAYKTYRQEYGSTYLRDTNDL------------------------ASRAAAVHSGS-IVKAIVEKD--AVAIAQK-LH----NDLEKVVLPSYPQ--------------------------------------VLQLRELFA--SQPSVI---------GTMMSGSG
+	37519671_Gloeobacter_violaceus  AAKINLYLEILGVR--PDNFHELVMVLQSVDLADTVTLRAAPTT----RVSCSH-------PLVPNDRTNLAVRAVEVLQKHTG-IDE---GVEIVIEKRIPVASGLAGGSTDAAAVLAGLNVLWDLGLTQRQLQSLGAQ--IGSDIPFCVT-GGTALAMGRGEVLSPL-PALK----------------------------GVYLVLAKLADLQVSTAWAYQTY-------------RR------------------------EYLSEGTAPRARTSALLSAVASQEVARIAP-LL---HNDLERAVLPAYPQ--------------------------------------VSALREHLVSAGAL------------GAMMSGSG
+	Galdieria_sulphuraria_074W_Isp  PAKINLFLRILGKR--KDGYHNIATLMQVISLRDTLYFKLLDESAEGDIFETDS-------DEIPIGSSNLVIAAFRKFRKESG-MKR---YFHTRVEKRIPVKAGLGGGSSNAATALWAANKLTGKKFSTEYLKKWGAD--LGSDVPFFFS-GGTAFCTGRGENVSEL-PSLF----------------------------PSFLYIIKPD-GSLSTADVYENL-------------DL------------------------SNCS-TRDPQE-LITAVQDGI----------MWAEPMNDLEESSFRLYPL--------------------------------------LSELKKLL---RACGFP---------VVLMCGSG
+	Aureococcus_anophagefferans_Is  PAKVNLFLRILRKR--DDGFHDLASLFQAVDLGDTLAFEVLGDGAKADALECDA-------PGCPLDASNLVLRAIALLRARLE-HRAAVPFLRVRLDKRTPIQAGLGGGSSNAATALYAANELAGRPASAAELVEWSGE--LGSDITFFLGPTGSCYCTGRGEVLEPV-DALPARDLVVLRAEWSAFKNVLQDMKLSGVTLDEGYATLLAS-NGMPNSKLLAAI-------------SLAIVLSTVCCERGFSTMAWVKSKLRNRMS-IIMLDA-LMMIILNGP----DMSDA-AA---VDDLIEKAYDFWAKQAKRTPSRSHPGVARPRKKTAVAQPVHDVLAAVDREAALEARRSEFADCEECHFDPDDGDTGDEGAPSESTG
+	comp1609_c0_seq1_Spirogyra_pra  PCKINVFLRITGKR--MDGYHDLSSLFHTISLGDTIKFSFSPSSQR-DFLTTNV-------FGIPLDDKNLIIKALNLYREKTG-FDK---YFWIHLDKQVPSGAGLGGGSGNAASALWAVNQMNGNAVSEPELQAWSAE--IGSDIPFFFS-QGAAMCTGRGEIVEDLKFPIP---------------------------LDTPLVLIKPP-QECSTKDVYGKF-------------KL------------------------ELAS-SANPND-LLQKIKDFG-----ISQS-VC---INDLEPPAFEVLPL--------------------------------------LKQLKQNILMNSRGKYS---------AVLMSGSG
+	comp10525_c0_seq1_Mougeotia_sc  PAKVNVFLRVTGKR--ADGFHELASLFHVISLGDTVRFSISPSTTR-DSLTTTS-------KGVPLDDTNLIIRALNLFRKKTG-IQT---FFWIHLEKRIPTGAGLGGGSSNAATALWAANQLTGGSVPESDLQEWSGE--IGSDVPFFFS-LGGAYCTGRGEIVENLDVPSI---------------------------KKTPLVLVKPP-EACGTADVYRKF-------------RI------------------------EAAS-SADPRR-LLQQVVDNG-----ITQE-TC---VNDLEPPAFEVLPS--------------------------------------LKKLKQRIRSAGKDKYG---------AVFMSGSG
+	comp40373_c4_seq1_Penium_marga  PSKVNVFLRITRKR--PDGYHDLASLFHTISLGDVLKFSMSPSQRK-DSLTTNT-------FGVPLDDSNLIIKAFNLFRQKTG-INT---YFWVHLDKRVPTGAGLGGGSGNAATALWAANQMTGGTVSEAQLQEWSGE--IGSDIPFFFS-NGAAYCTGRGEIVEDLSAELH---------------------------LSDPLVLMKPK-EACGTADVYRKF-------------RL------------------------DRAS-EADPVE-LLRRVQTDG-----ISQD-VC---VNDLEAPAFEVLPS--------------------------------------LKAFKTRVSKSGRGRYS---------AVFMSGSG
+	comp5633_c0_seq2_Nitella_mirab  PSKINVFLRITGKR--PDGFHELASLFHVIDLGDIIKFSISPSTTR-DSLTSNV-------FGVPLDDKNLIIKALKLYRQKTG-ADK---HFWIHLDKRVPTGAGLGGGSGNAATALWAANEMCGNLASESDLLEWGAE--IGSDVPIFFS-KGAAYVTGRGEVVQDIPSPFA---------------------------LDTPMVLIKPK-EECPTGAIYKRF-------------NL------------------------GKAS-AADPEK-LLQKIIHEG-----ISQD-TC---INDLESPAFEMLPS--------------------------------------LRSLKQRIAASSRGRYS---------AVFMSGSG
+	comp29596_c0_seq1_Phaeophila_d  PSKINVFLRILRRR--EDGFHELASLFHVIDFGDTLTFT--PATRAEDSLTCNE-------PGIPTDKTNLVFRALDLFRKHTG-SEA---HFDVELHKCVPHGAGLGGGSGNAATTLWAANELAGRPATNSQLLDWSGE--IGSDISVFFS-QGAAYCTGRGECVRNVESPQW---------------------------RDTPMVLIKPG-CALSTGSIFRAL-------------DL------------------------KNLS-DQDPEG-LLSALQQAG----RVQPQ-HV---VNDLEEPAFRILPL--------------------------------------LADLKSELS--SSGLYD---------AVFMTGSG
+	115440529_Oryza_sativa__japoni  PCKINVFLRITGKR--PDGFHDLASLFHVISLGDTIKFSLSPSKSK-DRLSTNV-------AGVPVDESNLIIKALNLYRKKTG-TDN---FFWIHLDKKVPTGAGLGGGSSNAATALWAANQFSGCIASEKELQEWSGE--IGSDIPFFFS-QGAAYCTGRGEIVEDIRNPLP---------------------------ANLPMVLVKPP-EACSTAEVYKRL-------------RL------------------------EHTS-QTDPLV-LLKEITENG-----ISQD-AC---VNDLEPPAFEVLPS--------------------------------------LKRLKKRIIAANRGDYD---------AVFMSGSG
+	gi|330252814|gb|AEC07908.1|_Ar  PCKINVFLRITGKR--EDGFHDLASLFHVISLGDTIKFSLSPSKSK-DRLSTNV-------QGVPVDGRNLIIKALNLYRKKTG-SNR---FFWIHLDKKVPTGAGLGGGSSNAATALWAANELNGGLVTENELQDWSSE--IGSDIPFFFS-HGAAYCTGRGEIVQDLPPPFP---------------------------LDLPMVLIKPR-EACSTAEVYKRL-------------RL------------------------DQTS-NINPLT-LLENVTSNG-----VSQS-IC---VNDLEPPAFSVLPS--------------------------------------LKRLKQRIIASGRGEYD---------AVFMSGSG
+	comp3742_c0_seq2_Mesostigma_vi  PSKINLFLRITAKR--PDGYHELASLFHAIDLGDVIKFSVSPSTKR-DSLTTNV-------PGVPVDESNLIIKAFALYRRKTG-SNQ---FYWVHLDKKVPMGAGLGGGSGNAATALWAANELSGRLASEAQLREWAGE--IGSDISFFFS-SGCAYCTGRGEIVQEVAPPIA---------------------------LSKPFLLVKPP-EECPTKDIYKNF-------------VL------------------------AEAS-KEPPEG-LLAAIQAAG----KVIPA-TC---INDLEPPAFKVVPS--------------------------------------LKLLKERLVATTKGRCD---------AVFMSGSG
+	comp4769_c0_seq1_Klebsormidium  PSKINLFLRVTAKR--PDGYHDLASLFHVIDLGDRLKFTLGPGRK--DALTSNA-------RWVPLGKDNLVIKALDVFRAKTG-IPQ---YFWIHLDKKVPTGAGLGGGSGNAATALWAANELTGRPASNAQLLEWSAD--IGSDVPVFFS-RGAAYCTGRGEIVEDI-QPPP-------------------------VPLDTPMVLIKPR-ASCKTPAVFKKF-------------SL------------------------ERAS-SADPRE-LLRSITEHG-----IRQE-FC---VNDLEEPAFEVLPS--------------------------------------LKRLKERISSGGRGKYS---------AVFMSGSG
+	comp27525_c0_seq1_Pyramimonas   PSKINVFLRIIKRR--DDGFHDLASLFHVIDFGDQIKFSKAPTEA--DSLTTNH-------PDVPLDDTNLIIRAFKLFREKTG-VDQ---HFWVHLKKSVPAGAGLGGGSGNAATALWAANQMCGTEVDDKTLMEWSGE--LGSDCPIFFS-QGAAYCTGRGEIVEDL-EPM--------------------------LSLDTPMLLVKPN-LFCSTPAIFKAL-------------DL------------------------DSRS-TADPLQ-LLEKLKTDG----QVSPE-LC---VNDLEQPAFANLPQ--------------------------------------LKMLKQRLIAEGKNKYD---------SVWMSGSG
+	comp29455_c0_seq11_Prasiolopsi  PSKINLFLRVIRRR--DDGFHDLASLFHVIDLGDFLTFTPRHGASE-DVLACNM-------DGVPLDSTNLVIKALDLFRRHTG-SNV---FFDIDLRKVVPHGAGLGGGSGNAATALWAANEMTGRPASNAQLLEWSAE--IGSDISVFFS-KGAAYCTGRGEIVENV-DPSP-------------------------LDLHLPLLLVKPD-VSFSTPAIFKAL-------------DL------------------------DQRS-TANPRQ-LLDRLAQEG-----LSPH-VT---VNDLEQPAFDILPE--------------------------------------LRALKDRLA--TERRFS---------SVFMTGSG
+	Chlamydomonas_reinhardtii_IspE  PSKINLFLRVVRRR--EDGYHDLASLFHVIDLGDYMEFETTPHALQ-DTLECSD-------PTIPTDESNLVIKALNLYRRKTL-QTM---YYKVKLHKRVPHGAGLGGGSGNAATTLFAANKLMGGIASNEDLLEWSGE--IGSDISVFFSNTGAAYCTGRGEVVEDVPPPVP---------------------------LDTPMLLVKPP-VGLATPKIFKSL-------------DL------------------------DRRS-SADPRG-LLDTIAAAK----GVDQA-AA---VNDLEQPAFDNLPE--------------------------------------LAALKQRLI--ESGQFR---------SVFMTGSG
+	comp20141_c0_seq1_Atractomorph  PSKVNLFLRIVRRR--EDGYHDLASLFHVIDLGDDMELSLLPGASK-DQLDCSD-------PTIPSDDSNLVIKALNLYRRKTG-SSS---YFKVKLNKKVPHGAGLGGGSGNAATTLWAANQLLGAPATDAEMLEWSGE--IGSDISVFFS-QGAAYCTGRGEIVEDVPPPLP---------------------------LDTKMLLVKPP-VGLATPRIFRAL-------------DL------------------------GRRS-SADPRQ-LLADMSAAG----GVSQQ-LV---VNDLEQPAFDCLPE--------------------------------------LAALKAELL--ATNTFQ---------AVFMTGSG
+	comp28096_c1_seq1_Tetraselmis   PSKINLFLRIIRRR--EDGFHDLASLFHVIDLGDNMEFQLLPGGAEADTLTCDM-------EGVPTDESNLVVKALNLYRAKTG-ATQ---RFAIHLDKTVPHGAGLGGGSANAATTLFAANQMCGGLASEAQLLEWSGE--IGSDISVFFS-EGAAYCTGRGEIVDNVTPPLP---------------------------LDMPILLVKPP-IGLSTPQIFKAL-------------DL------------------------DRRS-TADPLQ-LLAGLGEQG----VCTAE-LC---VNDLEQPAFDTLPE--------------------------------------LLKLKQRLS--DEGRYS---------VVFMTGSG
+	Ostreococcus_sp_CCE9901_IspE_3  PSKINLFLRITARR--PDGFHDLASLFHVIDLGDDMTFAKSSSETK-DTLICND-------PTIPTDSSNLVIKALDLFRAKTG-VRQ---YFWIELDKKVPHGAGLGGGSGNAATTLFAANKLCGSPATEAELLEWSGE--IGSDISVFFS-KGAAYCTGRGEIVEDVEPPLD---------------------------LATKMLLVKPP-MGCSTPAIFKAL-------------DL------------------------DGRS-KADPLE-LLKRIGVDG-----CSET-VC---INDLEAPAFTVLPE--------------------------------------LAELKERLKAATADKKT---------VVFMSGSG
+	comp5546_c0_seq1_Nephroselmis   PSKINLFLRVTARR--DDGFHDLASLFHVIDLGDTIKFSVSPSKTK-DAITTND-------PDVPLDDSNLIIKALNKFREKTG-SEQ---FYWIHLDKRVPSGAGLGGGSANASTALWAANQMCGELATEEQLLEWSGE--VGSDCPVFFS-TGAAYCTGRGEIVENVPPPLS---------------------------LATPMLLVKPS-YGCSTPAIFKAL-------------DL------------------------DSRS-TADPQD-LLDRITKGA------SEE-VC---VNDLEAPAFSVVPE--------------------------------------LARLKKRLQAALRNKCD---------AVFMSGSG
+	comp58987_c0_seq1_Oedogonium_c  PSKVNLFLRVVRRR--EDGYHDLASLFHVIDLGDDMHLAVLPSTANKDELVCSD-------PTIPCDESNLVIKALNLYRRKTG-RQE---FFHVDLQKKVPHGAGLGGGSGNAATTLWAANKLCGNGASNADLLAWAGE--IGSDISVFFS-QGAAYCTGRGEVVENVPPPLP---------------------------LTTPLLLVKPP-IGLSTPSIFKAL-------------DL------------------------NRRS-LADPKG-LLKAMTEQG-----MSQE-VC---VNDLEQPAFDTLPA--------------------------------------LHALKLKLLQCADVEYA---------AVFMTGSG
+	comp25418_c0_seq1_Hormotilopsi  PSKVNLFLRVVKRR--EDGYHDLASLFHVIDLGDSMTFDVLKGTDH-DRLRCSD-------PTIPSDGRNLVIKALNLFRSKTG-LDT---HFDVTLDKKVPHGAGLGGGSGNAATTLWAANELTGRPASNEDLLKWSGE--IGSDISVFFS-LGAAYCTGRGEIVENVDPPLP---------------------------LDTPLLLVKPP-VGLATPTVFKAL-------------DL------------------------SRRS-AAEPLE-LLKNLASQG-----MSQG-LA---VNDLEQPAFDVLPE--------------------------------------LGQLKQELIQHSDKPLQ---------AVFMTGSG
+	comp13040_c0_seq1_Elakatothrix  PSKVNLFLRVMRRR--EDGYHDLASLFHIIDLGDQMQFTPLSENAEKDELQCSD-------PTIPCNESNLVMKALNLFRRKTG-SSC---FFKVVLEKVVPHGAGLGGGSGNAATTLWAANELTGRPATSAQLLEWSGE--IGSDISVFFS-GGAAYCTGRGEVVEDVAPPLP---------------------------LSTPLLLVKPP-VGLSTPTVFRSL-------------DL------------------------SRRS-TADPQE-LLEAMHTHG----ALSQS-LV---VNDLEQPAFDNLPE--------------------------------------LARLKQRLQLESSGAFS---------AVFMTGSG
+	Cyanidioschyzon_merolae_10D_Is  PSKINVFLRVIRRR--PDGFHELATVMQAISLVDRIGFQELPAGASADVLECNN-------AKVPLDKTNLIIRALDTFRTHSG-SRK---HYRVHLDKQIPTEAGLGGGSGNAATALFAANRLCGEPASNADLIRWASE--IGSDTAFFFS-SGSAFCTGRGEQLHPI-RPLA----------------------------PTTVYIVKPRGVGLSTASVYRAL-------------SL---------------------HQLNRED-HLDPHV-LCEQMERIG--------P-LCAPLVNDLEGPAFALMPP--------------------------------------LRHLKTFL---ESFGFQ---------RVLMSGSG
+	comp49369_c0_seq1_Phaeocystis   PAKINLFLRILGKR--ADGFHELSSLFQAVSLMDRLDFWQLPEDEAAPLCSMEVTPDSLGAELIPTDASNLVMRALQIFADRTG-EKR---RVHCRLHKEVPAQGGLGGGSADAATALHAANRLAGFPVSEEELIIWGAE--LGSDVGFFLA-RGTAMCTGRGEFIEPM-PPLP----------------------------DCTVYLVKPD-DGLSTPSVFKAL-------------GL---------------------KPDESLP-GPEPQE-LLRQFQSDV------STA-SF---VNDLEAPAYQVMPR--------------------------------------LEQLRDTL---RSYGFA---------AVMMSGSG
+	comp74756_c1_seq3_Pleurochrysi  PAKINLFLRILGRR--EDGFHELASLFQTVSLFDTLDFWSSPADDSQPLYSMEVTDSSLCADLIPTDESNLVMKALHAFSERTS-SKQ---RLHCRLHKEIPAEGGLGGGSSDAATALHAANRLAGFPLSEDELIKLAAD--LGSDVGFFLS-GGTAYCTGRGELVDFR-KPLE----------------------------PCTIYLIKPK-VGCSTPAVYGAL-------------GL---------------------EKGQQLS-GLDPEA-LLKEFEEGS-----IYKA-TF---INDLEPPAFQVVPL--------------------------------------LREIKEDL---EKLGFP---------AVMMSGSG
+	comp72091_c0_seq1_Coccolithus   PAKVNLFLRIVGKR--EDGYHELASLFQTVSLFDELDFWTTPVEAGDPCCSMEVTADSLCAELIPTDSANLVMRALQLFADRVE-TTQ---RVHCRLHKRVPAQGGLGGGSADAATALHAANRLAGFPLAQDDLIEMGGE--LGSDVGFFLS-RGTAYCTGRGELVEFR-EPLD----------------------------PCLIYLIKPQ-LGLSTPAVFGAL-------------GL---------------------SPGEKLE-GPDPLL-LLQEFTDGS-----LYEA-TY---LNDLEPPAFEVLPQ--------------------------------------LKELSDDL---NKLGFR---------AVMMSGSG
+	comp18633_c0_seq2_Isochrysis_g  PAKVNLFLRILRKR--EDGFHELASLFQTVSLFDDLDFWLLPREADQPLCSMEVTPDSLRAELIPTDGSNLVMRALQLYAERVP-SAG---AVHCRLHKRIPAQGGLGGGSSDAATALHAANRLAGSPVSQDTLIEWAGE--LGSDCGFFLS-RGSAYCTGRGEIVSPV-APLP----------------------------PAACFLIKPA-DGLSTPSVFKEL-------------GL---------------------QPGQSLP-GPEPLE-LLDGLQRDV-----FNAA-LY---VNDLEPPAFKLMPR--------------------------------------LKQMCDDL---RKLGFR---------AVMMSGSG
+	jgi|Emihu1|461009|estExtDG_fge  PAKVNLFLRVVGKR--PDGFHELASLFQTVSLFDDLDFWTSPREEGAPLASLEVTPDSLGAELIPTDESNLVVRALSLYAERVP-SSP---AIHCRLHKRIPAQGGLGGGSSDAATALHAANRLAGLPVSQETLIEWAGE--LGSDCGFFLS-AGTAYCTGRGELVDPR-RPLP----------------------------PTACYLIKPA-AGLSTPSVFKAL-------------GL---------------------EPGEAGPAGADPAD-LLSRFEGGD----VYNPD-LY---VNDREPPAFELMPE--------------------------------------LRQMCDDL---RKFGFQ---------AVMMSGSG
+	comp24837_c0_seq4_Gephyrocapsa  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MPE--------------------------------------LRQMCDDL---RKFGFQ---------AVMMSGSG
+	comp89287_c0_seq1_Karenia_brev  PCKINLFLRILGKR--PDNFHELASLFQTVSLADTLDFWEEPPDESAPLCTMEVSRDSLGREGIPTDESNLVMRALQLFADKTG-EKR---RIHCRLHKAVPAQAGLGGGSGDCATAMHAANRLAGFPATEQQLIEWSGE--LGSDISFFFS-QGSAYCTGRGEIIENV-DALP----------------------------PTTVYLIKPP-YGCSTPAVFKTL-------------GL---------------------KPGDKLA-GNEPRD-MLHKFQESV------FGA-PY---VNDLEDPAFEVAPE--------------------------------------LRALRDEI---SNFGFP---------HVMMSGSG
+	comp37878_c0_seq1_Prymnesium_p  -------------------------------------MEVTPNSLGY--------------DMIPTDESNLVMRALQLFAERTG-ETR---RIHCRLHKAIPAQGGLGGGSCDAATALFAANRLAGYPVSQDTLIEWGAE--LGSDVSFFFS-RGSAYCTGRGEIIEPLKQPLP----------------------------PTVCYLIKPA-VGCSTPAVFKAL-------------GL---------------------EPGQSLD-GPDPRV-LLEEFQKSV------YSA-TF---INDLEPPAFTVLPM--------------------------------------LKNLREDL---SKFGFQ---------AVMMSGSG
+	comp7661_c0_seq2_Guillardia_th  PAKTNIFLRITKKR--DDGFHELASVFQALSLGDTLKVSVLEESGGKDVLRCNV-------DSVPLDESNLIVKAFNLFRRRTG-QNK---FFDCEIDKRTPLEGGMGGGSSNCATALWAANELCGSPASTNQLIEWGGE--LGSDVGFFLS-EGTAYCTGRGEIVENVSPPLQ--------------------------TPQGAFWVVKPQ-EGCPTPLVYKTL-------------GL---------------------KPGEALN-GPDPVA-LRERLVREG-----LSQE-VC---VNDLEPPAQKILPK--------------------------------------LSQIKDAL---KKDGFH---------TVLLSGSG
+	comp89881_c3_seq1_Geminigera_c  PGKTNLFLRITRKR--EDGFHELASVFQALGLGDTLVFSKLETATQ-DILTCNV-------KEVPVDGKNLVRQAFDLFRLRSG-VRE---YFRCDIDKRTPLEGGMGGGSSNCATAFWAANQMCGTPATEAQLIEWGAE--LGSDVSFFLS-KGTAYCTGRGEIIQDL----------------------------------------------------------------------------------------------------PVTPHS---------------------------------------------------------------------------------------------------------------
+	comp176232_c0_seq1_Karlodinium  PAKVNLFLRIIRRR--DDGYHDLASLFHTVSLGDELTLEVLPEEREEDELECNL-------PGVPVDDSNLVIRALNLFRERSG-IRR---FFRVNLQKSTPAQAGMGGGSSNAATALYGANELCGRPASPAELLEWANDPIIGSDAAFFLS-EGCAYCTGRGEIVTPV-EQLP-------------------------IQKDLPIFLVKPN-YGLSTPKVFKAL-------------DI------------------------ARVS-SVAPEE-LLQTFQKHG-----MSHD-LW---INDLEDPAFEVSPD--------------------------------------LSDLKKFLLK-DEWGFQ---------TVLMSGSG
+	comp60961_c0_seq1_Noctiluca_sc  PAKVNLFLRVVKKR--PDGYHELASLFQTVALGDTMDLEVLPDATK-DELECNL-------CNVPLDDSNFVIRALKLFRERSG-IQR---FFRIRLDKKIPAQAGMGGGSSNAAAAFFGANELCGAPGTPADLLRWAEDPIIGSDASFFLS-QGTAYCTGRGEIVTPV-EPLP-------------------------FPPDLPVYLVKPS-YGLSTPKVFKAL-------------NL------------------------SATN-QIDPQA-LLDDFRTKG-----IDHQ-SW---VNDLESPAFEVSPE--------------------------------------LGLLKEFICS-DAFGFR---------SVLMSGSG
+	comp46019_c0_seq1_Amphidinium   PAKVNLFLRIIRKR--EDGYHDLASLFHTVSFGDKLTMEVLPESATGDELKCNL-------PHVPVDASNLVIRALNLFRERSG-VKT---FFKLDLQKSMPAEAGLGGGSSNGATAFWGANALAGFPATSADLLKWADDPVVGSDATFFLS-EGTAYCTGRGEIVTPM-DPLP---------------------------VADPLYLVKPD-YGCSTGKIFKAL-------------DY------------------------DGLS-ACDPEE-LLAAFTEGG-----FDHK-LW---VNDLEPPAMQVVPE--------------------------------------LGALKNYLAS-KDFGFK---------AVMMSGSG
+	comp129272_c1_seq1_Karenia_bre  PAKINLFLRITQRR--PDGYHDLASLFHTVSFGDTLDLELLPTSAEHDELECNL-------PGVPLDDSNLVIRALQLFRDRSG-IQR---YFRVKLEKCTPAQAGMGGGSSNAATAFFGANALCGSPASRADLLDWANDPVIGSDASFFLS-EGTAFCTGRGEIVTPV-PPLP-------------------------VQDGLPLYLVKPR-YGLSTPKVFKAL-------------DL------------------------ATLS-TADPED-LLHTFQEHG-----TAHA-QW---INDLERAAFEVCPE--------------------------------------LGELKAFLAG-KEWGFQ---------AVLMSGSG
+	comp63835_c0_seq1_Dinophysis_a  ----------------------------------------------------------------------------------------------------------MGGGSSNAAAALFGANALCGAPASPAELLRWADDPVVGSDATFFLS-EGAAYCTGRGEVVTPV-APLR-------------------------VAANQTVYLVKPR-YGLSTPKVFQAL-------------DL------------------------STLS-TVDPEE-LLAAFKDGD-CSTLTERN-MW---INDLERPAFAVCPE--------------------------------------LGSLKQFLAS-ERWGFD---------AVLMSGSG
+	comp77531_c1_seq1_Heterocapsa   -------------------------------------------------MECNL-------PGVPTDESNLVIRALNLFRGQSG-VKR---FFRLNLVKSTPAQAGMGGGSSNAAAAFFGANALCGSPGSTEDLIKWAEDPVIGSDASFFLS-EGAAYCTGRGEIVTPV-AQLP-------------------------ISEELTVNLVKPN-YGLSTPKVFKAL-------------DL------------------------DGLS-KVEPED-LLSAFQTKG-----VDHD-LW---VNDLEPPAFEVCPE--------------------------------------LGELKAFLAG-ADFGFQ---------AVLMSGSG
+	comp38364_c0_seq1_Lingulodiniu  ----------------------------------------------------------------------------------------------------------MGGGSSNAATAFFGANVLCGRPASIEELLQWAEDPVIGSDASFFLS-EGAAYCTGRGEIVTSV-PPLP-------------------------LPSGLAVYLVKPN-YGLSTPKVFKAM-------------DL------------------------SKLS-PQPPEE-LLEAFQQHG-----VDHD-CW---VNDLERPAFEVCPE--------------------------------------LGELKAFLQG-EEFGFQ---------AVLMSGSG
+	comp36977_c7_seq4_Prorocentrum  PAKVNLFLRILRRR--DDGYHDLASLFHTVSFGDTLDLEVLPAKAKKDELECNL-------PDVPTDDSNLVIRALNLFRKKTG-AQR---RFRVKLEKRIPAQAGMGGGSSNAATAFFGANQLCGSPASPTDLIQWADDPVIGSDATFFLS-QGTAYCTGRGEVVTPV-DPLP------------------------DVPAELPIYLVKPR-YGLSTGAIFKTL-------------DL------------------------SALS-PADPDE-LLGAFKAEG-----FSQKKAW---VNDLEAPAFQVCPE--------------------------------------LGKLRAFLAR-PEHGFQ---------AVLMSGSG
+	comp84759_c0_seq1_Crypthecodin  PAKVNLFLRIVGRR--PDGYHDLASLFHTVSFGDTLDMEVLPTEAPKDELTCNL-------PGVPTDESNLVIRALNLFRKMSG-ETA---RFRLNLQKSTPAQAGMGGGSSNAAAALFGANALCGRPATNQDLIKWTEDPVIGSDATFFLS-EGTAYCTGRGEVITPV-GALP-------------------------VPANMPIFLVKPR-VGLSTPKVFKAM-------------DL------------------------EGLD-KTPPEE-LLRIFQEKG-----IDHE-TW---VNDLETPAFKVAPE--------------------------------------LGELKQFLAKDGSFNFR---------AVLMSGSG
+	comp105881_c0_seq1_Akashiwo_sa  PAKVNLFLRIIRRR--PDGYHDLASLFHAVSFGDQLDMEVLPSEATQDELQCNL-------EGVPVDESNLVIRALKLFRDRSG-VQQ---FFRVHLEKSIPAQAGMGGGSSNAATAFFGANALCGTPASPEDLLKWSEDPVIGSDATFFLS-EGTAYCTGRGEILDPI-APLP-------------------------VPKDLAVYLVKPR-------YVFQLL----------------------------------------------------------------------KC-----------------------------------------------------------------------------------------
+	comp105041_c1_seq1_Scrippsiell  PAKVNLFLRIIRRR--PDGYHDLASLFHTVSFGDKLDMEVLPADATRDELECNL-------PGVPVDDSNLVIRALNLFRDRSG-ETS---RFRLRLEKSIPAQAGMGGGSSNAAAAFFGANALCGRPASAAQLLQWADDPVIGSDATFFLS-EGTAYCTGRGEIVTPV-DPLP-------------------------VRSDLPVYLVKPK-VGLSTPKVFKAL-------------DL------------------------EALS-TVDPEE-LLDTFREKG-----TSHS-AW---VNDLEKPAFVVEPG--------------------------------------LGKLKAFLESDGGFGFE---------AVLMSGSG
+	comp168740_c0_seq2_Kryptoperid  PAKINLFLRIVRRR--PDGYHDLASLFHTVSFGDTLDMEVLPADATHDELECNL-------PGVPVDDSNLVIRALNLFRKKSG-LST---FFRIRLQKNIPAQAGMGGGSSNAATAFFGANKLCGYVASPAELLQWADDPVIGSDASFFLS-EGTAYCTGRGEIVTPV-DPLP-------------------------VPAGTPLYLVKPA-YGLSTPKVFKAM-------------DL------------------------NGLS-TADPED-LLRAFKQEG-----VSHTTGW---VNDLEKPAFKVTPD--------------------------------------LGKLKDFLVSGGGFDFQ---------VVLMSGSG
+	comp144824_c0_seq1_Glenodinium  -------------------------------------MEVLPETATHDTLECNL-------PGVPVDDSNLVIRALNLFRKKAG-LNT---FFSVRLQKNTPAQAGMGGGSSNAATAFFGANKLCGYVASPEELLQWADDPVIGSDATFFLS-QGTAFCTGRGEVVTPV-DPLP-------------------------VPAGTPLYLVKPG-YGLSTPKVFKAM-------------DL------------------------SELS-TADPEE-LLRAFKEKG-----IAHTDGW---VNDLEKPAFKVRPD--------------------------------------LGELKNFLVN-AGFGFQ---------VVLMSGSG
+	gi|510001365|gb|GAIT01018123.1  PAKINLFLRILRRR--PDNYHDLASLFHTVAFGDTMDLTVLPTTAERDELECNL-------EGVPVDESNLVIRALKLFRERSG-VQR---FFHVRLEKAIPAQAGMGGGSSNAATAFFGANALCGSPASAADLLQWGDDPVIGSDATFFLS-EGTAYCTGRGEIVTPV-APLP-------------------------VAPGMSVYLVKPR-YGLSTPKVFKAL-------------DL------------------------SALS-PVDPEE-LLSTFQEKG-----VEHS-SW---VNDLEAPAFEVCPE--------------------------------------LGELKKFLAD-DKWGFT---------AVLMSGSG
+	comp84190_c1_seq1_Prorocentrum  PAKVNLFLRIIRKR--PDGYHDLASLFHTVSFGDTLDLEVLPPTATMDELKCNL-------PGVPTDESNLVIRALKLFREKSG-STR---FFKMDLQKSTPAQAGMGGGSSNAAAAFFGANALCGRPASPAELIKWADDPVIGSDATFFLS-QGTAYCTGRGEIVTPV-GPLK-------------------------NAADLPVYLVKPA-YGLSTGSIFKAL-------------DY------------------------NALS-TVDPDE-LLKVFQEQG-----TDHD-LW---VNDLEQPAFEVEPN--------------------------------------LGQLKAFLAS-KELGFK---------AVLMSGSG
+	comp82270_c0_seq1_Baltimore_bl  PAKVNLFLRIIRKR--PDGYHDLASLFHTVSFGDTLDLEVLPTTATKDELKCNL-------PGVPTDESNLVVRALKLFREKSG-VQR---FFKMDLQKNTPAQAGMGGGSSNAAAAFFGANALCGRPASPEELIQWADDPVIGSDATFFLS-QGTAYCTGRGEIVTPV-GPLK-------------------------GTANLAVYLVKPA-YGLSTGSIFKAL-------------DY------------------------DALS-TVDPDE-LLSAFQEKG-----TDHG-LW---INDLEQPAFEVEPN--------------------------------------LGELKAALES-ADFGFK---------AVLMSGSG
+	comp50512_c1_seq1_Prorocentrum  PAKVNLFLRIIRKR--PDGYHDLASLFHTVSFGDTLDLEVLPTTATNDELECNL-------PGVPTDESNLVVRALKLFREKSG-VQR---FFKMDLQKNTPAQAGMGGGSSNAAAAFFGANALCGTPASPEELIQWADDPVIGSDATFFLS-QGTAYCTGRGEIVTPV-GQLK-------------------------DTADLAVYLVKPA-YGLSTGSIFKAL-------------DY------------------------DSLS-TVDPDE-LLNAFQEKG-----TDHD-LW---INDLEQPAFEVEPN--------------------------------------LGELKASLES-ADFGFK---------AVLMSGSG
+	comp249416_c6_seq3_Polarella_g  PAKINLFLRMIRKR--PDGYHDLASLFHTVAFGDTLDMEVLPTTAERDELKCNL-------EGVPVDESNLVIRALKLFREKSG-VKR---FFKCNLVKSTPAQAGMGGGSSNAATAFFGANQLCGSPASPQDLLQWGDDPVIGSDATFFLS-EGTAYCTGRGEIVTPV-PALP-------------------------IRPGLSVYLVKPI-YGLSTPKIFQAF-------------DL------------------------SSVS-TVDPEE-LLKTFQTKG-----ASHS-SW---INDLEKPAFEVEPN--------------------------------------LGELKAFLAS-EDFGFE---------AVLMSGSG
+	kb8_c12863_Symbiodinium_sp_cla  ----------------------------------------------------------------------------------------------------------MGGGSSNAATAFFGANQLCGCPATPEDLISWGDDPVIGSDATFFLS-EGTAYCTGRGEIVTPM-DGLP-------------------------IKDGLSVYLVKPN-YGLSTGKVFQAM-------------DL------------------------SALS-TTDPEE-LLQTFKDKG-----TSHS-SW---VNDLEKPAFKVSPE--------------------------------------LRDLKKYLA--EEWDFE---------AVLMSGSG
+	gi|452173962|gb|GAFP01007623.1  ----------------------------------------------------------------------------------------------------------MGGGSSNAATAFFGANLLCGSPASPEDLIRWGDDPVIGSDATFFLS-EGTAYCTGRGEIVTPI-EGLP-------------------------IKEGLSVYLVKPN-YGLSTGKVFKAM-------------DL------------------------SALS-TVDPEE-LLQTFKDKG-----TSHS-SW---VNDLEKPAFTVSPD--------------------------------------LSELKDFLA--TEWGFE---------AVLMSGSG
+	Ectocarpus_siliculosus_IspE_29  PAKINLFLRILGKR--PDGFHDLASLFQTVGFGDKLFFRKLPESAVADTFNCNM-------EGVPTDGSNLVLRALDLFRKRTS-SQQ---FYEVYLSKRIPPEAGLGGGSANAATALFAANKLAGHPASLEDLQLWSAE--LGSDITFFLS-TGTCYCTGRGEVLHPQ-EPLP----------------------------QTRVWLVKPN-KGLSTPVVFRHL-------------DY------------------------DQLS-RIEPAG-LLKQFIEEG-----LAEA-DY---VNDLELPAFKAMPS--------------------------------------LQTMKEEL---QTLGFE---------HVLMSGSG
+	gi|480468956|gb|GAGR01005035.1  PAKVNLFLRIIRRR--EDGYHELASLFQTVAFGDTLLLKVLPATAVQDEFSSSY-------TSLVTDQSNLVLRALDLFREKTG-KTQ---RFEVYLEKRTPVQAGLGGGSSNAATTLFAANQLLGTPATDEELIEWSKE--LGSDITFFLS-KGTAYCTGRGELLEPV-PPLP---------------------------SSIKLYVVKPP-VGLSTPAVFKAL-------------DL------------------------DALN-REDPRD-LLAAFTQHLSRGELGPAS-MY---INDLEPPAFQCVPR--------------------------------------LKAIKEAL---LARGFD---------CVMMSGSG
+	gi|219115135|ref|XP_002178363.  PCKINLFLRIIRKR--EDGFHDLASLFQAIGFGDTLELTSIDSDA--DEFTCNM-------PGVPVDNSNLVLRAIQLMREKTG-EKQ---SFRANLIKQVPAQAGLGGGSANAATAMWGVNELMGRPASLDQMVEWSGA--LGSDITFFLS-RGTAYCTGRGEIMSSIDPPLP---------------------------SGTKICIVKID-IGLSTPSVFKAL-------------DY------------------------DKLS-NLNADDVLLPTFLRGI---DQVPDS-YF---VNDLETPAFKCIPE--------------------------------------LRSLKEELL--GVAGFD---------HVMMSGSG
+	Thalassiosira_pseudonana_IspE   PCKINLFLRIIRKR--PDGFHDLASLFQAVGFGDTLTLSLSEQPN--DEFTCNM-------EGVPTDSSNLVLRALELMRQKTGKTDV---YFKADLFKRVPAQAGLGGGSANAATAMWGANELMGKPATLGELIEWSGE--LGSDITFFLS-RGTAYCTGRGEVMTPIDPPLP---------------------------SGSKLSIVKPD-LGLSTPKVFSAL-------------DY------------------------EQLS-AEDPEE-LLNTFLEFG--VVDTDDE-YY---INDLEQPAFDCLPE--------------------------------------LKALKEDLL--KVKGFD---------HVMMSGSG
+	comp21780_c0_seq1_Glenodinium   PCKINLFLRIIRKR--EDGYHDLASLFQAVGFGDTLELTPLEESAGKDEFTCNM-------PGVPIDSSNLVLRALQLMRDKTG-VNQ---YFQANLIKLCPAQAGLGGGSANAATAMWGANELMGKPASLEQMIEWSGD--LGSDITFFLS-RGTAYCTGRGELMTPTDPLLE---------------------------AGTRLCIVKPD-VGLSTPSVFKAL-------------DY------------------------DELS-TLDPDEVLLPAFLNAD-GVENVSGD-YY---INDLEPPAFRCVPE--------------------------------------LGKLKEELQ--KVKGFK---------HVMMSGSG
+	comp150260_c0_seq1_Kryptoperid  PCKINLFLRIIRKR--EDGFHDLASLFQAIGFGDTLELSPLDDSAKNDEFECNM-------EGVPTDSSNLVLRALELMREKTG-SQQ---YFKANLIKQVPAQAGLGGGSANAATAMWGANELMGNPASLDQMIEWSGD--LGSDITFFLS-QGTAYCTGRGEIMTPT-DPL--------------------------LEAGTPLCIVKPN-VGLSTPSVFKAL-------------DY------------------------DELS-QLDADEVLLPAFLNAD-GVENVPAE-YY---INDLEPPAFRCVPE--------------------------------------LGELRKELQ--KVKGFK---------HVMMSGSG
+
+;
+
+
+END;
+
+BEGIN TREES;
+	Title H0;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 33865587_Synechococcus_sp._WH,
+		2 33240214_Prochlorococcus_marin,
+		3 gi|171363677|dbj|BAG14387.1|_P,
+		4 75911083_Anabaena_variabilis_A,
+		5 37519671_Gloeobacter_violaceus,
+		6 Galdieria_sulphuraria_074W_Isp,
+		7 Aureococcus_anophagefferans_Is,
+		8 comp1609_c0_seq1_Spirogyra_pra,
+		9 comp10525_c0_seq1_Mougeotia_sc,
+		10 comp40373_c4_seq1_Penium_marga,
+		11 comp5633_c0_seq2_Nitella_mirab,
+		12 comp29596_c0_seq1_Phaeophila_d,
+		13 115440529_Oryza_sativa__japoni,
+		14 gi|330252814|gb|AEC07908.1|_Ar,
+		15 comp3742_c0_seq2_Mesostigma_vi,
+		16 comp4769_c0_seq1_Klebsormidium,
+		17 comp27525_c0_seq1_Pyramimonas,
+		18 comp29455_c0_seq11_Prasiolopsi,
+		19 Chlamydomonas_reinhardtii_IspE,
+		20 comp20141_c0_seq1_Atractomorph,
+		21 comp28096_c1_seq1_Tetraselmis,
+		22 Ostreococcus_sp_CCE9901_IspE_3,
+		23 comp5546_c0_seq1_Nephroselmis,
+		24 comp58987_c0_seq1_Oedogonium_c,
+		25 comp25418_c0_seq1_Hormotilopsi,
+		26 comp13040_c0_seq1_Elakatothrix,
+		27 Cyanidioschyzon_merolae_10D_Is,
+		28 comp49369_c0_seq1_Phaeocystis,
+		29 comp74756_c1_seq3_Pleurochrysi,
+		30 comp72091_c0_seq1_Coccolithus,
+		31 comp18633_c0_seq2_Isochrysis_g,
+		32 jgi|Emihu1|461009|estExtDG_fge,
+		33 comp24837_c0_seq4_Gephyrocapsa,
+		34 comp89287_c0_seq1_Karenia_brev,
+		35 comp37878_c0_seq1_Prymnesium_p,
+		36 comp7661_c0_seq2_Guillardia_th,
+		37 comp89881_c3_seq1_Geminigera_c,
+		38 comp176232_c0_seq1_Karlodinium,
+		39 comp60961_c0_seq1_Noctiluca_sc,
+		40 comp46019_c0_seq1_Amphidinium,
+		41 comp129272_c1_seq1_Karenia_bre,
+		42 comp63835_c0_seq1_Dinophysis_a,
+		43 comp77531_c1_seq1_Heterocapsa,
+		44 comp38364_c0_seq1_Lingulodiniu,
+		45 comp36977_c7_seq4_Prorocentrum,
+		46 comp84759_c0_seq1_Crypthecodin,
+		47 comp105881_c0_seq1_Akashiwo_sa,
+		48 comp105041_c1_seq1_Scrippsiell,
+		49 comp168740_c0_seq2_Kryptoperid,
+		50 comp144824_c0_seq1_Glenodinium,
+		51 gi|510001365|gb|GAIT01018123.1,
+		52 comp84190_c1_seq1_Prorocentrum,
+		53 comp82270_c0_seq1_Baltimore_bl,
+		54 comp50512_c1_seq1_Prorocentrum,
+		55 comp249416_c6_seq3_Polarella_g,
+		56 kb8_c12863_Symbiodinium_sp_cla,
+		57 gi|452173962|gb|GAFP01007623.1,
+		58 Ectocarpus_siliculosus_IspE_29,
+		59 gi|480468956|gb|GAGR01005035.1,
+		60 gi|219115135|ref|XP_002178363.,
+		61 Thalassiosira_pseudonana_IspE,
+		62 comp21780_c0_seq1_Glenodinium,
+		63 comp150260_c0_seq1_Kryptoperid;
+	TREE H0 = (((27,6),(9,8,11,13,14,12,15,16,17,19,18,20,21,22,23,24,25,26,10),(28,30,31,32,35,33,29),(36,37),(34,3,39,40,41,42,43,44,45,46,47,48,49,51,50,53,52,54,55,56,57,38),(61,63,62,7,59,60,58)),(2,4,5,1));
+
+END;
+
+
+BEGIN TREES;
+	Title H1;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 33865587_Synechococcus_sp._WH,
+		2 33240214_Prochlorococcus_marin,
+		3 gi|171363677|dbj|BAG14387.1|_P,
+		4 75911083_Anabaena_variabilis_A,
+		5 37519671_Gloeobacter_violaceus,
+		6 Galdieria_sulphuraria_074W_Isp,
+		7 Aureococcus_anophagefferans_Is,
+		8 comp1609_c0_seq1_Spirogyra_pra,
+		9 comp10525_c0_seq1_Mougeotia_sc,
+		10 comp40373_c4_seq1_Penium_marga,
+		11 comp5633_c0_seq2_Nitella_mirab,
+		12 comp29596_c0_seq1_Phaeophila_d,
+		13 115440529_Oryza_sativa__japoni,
+		14 gi|330252814|gb|AEC07908.1|_Ar,
+		15 comp3742_c0_seq2_Mesostigma_vi,
+		16 comp4769_c0_seq1_Klebsormidium,
+		17 comp27525_c0_seq1_Pyramimonas,
+		18 comp29455_c0_seq11_Prasiolopsi,
+		19 Chlamydomonas_reinhardtii_IspE,
+		20 comp20141_c0_seq1_Atractomorph,
+		21 comp28096_c1_seq1_Tetraselmis,
+		22 Ostreococcus_sp_CCE9901_IspE_3,
+		23 comp5546_c0_seq1_Nephroselmis,
+		24 comp58987_c0_seq1_Oedogonium_c,
+		25 comp25418_c0_seq1_Hormotilopsi,
+		26 comp13040_c0_seq1_Elakatothrix,
+		27 Cyanidioschyzon_merolae_10D_Is,
+		28 comp49369_c0_seq1_Phaeocystis,
+		29 comp74756_c1_seq3_Pleurochrysi,
+		30 comp72091_c0_seq1_Coccolithus,
+		31 comp18633_c0_seq2_Isochrysis_g,
+		32 jgi|Emihu1|461009|estExtDG_fge,
+		33 comp24837_c0_seq4_Gephyrocapsa,
+		34 comp89287_c0_seq1_Karenia_brev,
+		35 comp37878_c0_seq1_Prymnesium_p,
+		36 comp7661_c0_seq2_Guillardia_th,
+		37 comp89881_c3_seq1_Geminigera_c,
+		38 comp176232_c0_seq1_Karlodinium,
+		39 comp60961_c0_seq1_Noctiluca_sc,
+		40 comp46019_c0_seq1_Amphidinium,
+		41 comp129272_c1_seq1_Karenia_bre,
+		42 comp63835_c0_seq1_Dinophysis_a,
+		43 comp77531_c1_seq1_Heterocapsa,
+		44 comp38364_c0_seq1_Lingulodiniu,
+		45 comp36977_c7_seq4_Prorocentrum,
+		46 comp84759_c0_seq1_Crypthecodin,
+		47 comp105881_c0_seq1_Akashiwo_sa,
+		48 comp105041_c1_seq1_Scrippsiell,
+		49 comp168740_c0_seq2_Kryptoperid,
+		50 comp144824_c0_seq1_Glenodinium,
+		51 gi|510001365|gb|GAIT01018123.1,
+		52 comp84190_c1_seq1_Prorocentrum,
+		53 comp82270_c0_seq1_Baltimore_bl,
+		54 comp50512_c1_seq1_Prorocentrum,
+		55 comp249416_c6_seq3_Polarella_g,
+		56 kb8_c12863_Symbiodinium_sp_cla,
+		57 gi|452173962|gb|GAFP01007623.1,
+		58 Ectocarpus_siliculosus_IspE_29,
+		59 gi|480468956|gb|GAGR01005035.1,
+		60 gi|219115135|ref|XP_002178363.,
+		61 Thalassiosira_pseudonana_IspE,
+		62 comp21780_c0_seq1_Glenodinium,
+		63 comp150260_c0_seq1_Kryptoperid;
+	TREE Imported_tree_0 = (((27,6),(9,8,11,13,14,12,15,16,17,19,18,20,21,22,23,24,25,26,10),(28,30,31,32,34,35,33,29),(36,37),(3,39,40,41,42,43,44,45,46,47,48,49,51,50,53,52,54,55,56,57,38),(61,63,62,7,59,60,58)),(2,4,5,1));
+
+END;
+
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  386;
+END;
+
+BEGIN CODONS;
+	CODESET * UNTITLED   =  universal:  1 -  386;
+
+
+END;
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  386;
+
+END;
+
+BEGIN TREES;
+	Title H2;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 33865587_Synechococcus_sp._WH,
+		2 33240214_Prochlorococcus_marin,
+		3 gi|171363677|dbj|BAG14387.1|_P,
+		4 75911083_Anabaena_variabilis_A,
+		5 37519671_Gloeobacter_violaceus,
+		6 Galdieria_sulphuraria_074W_Isp,
+		7 Aureococcus_anophagefferans_Is,
+		8 comp1609_c0_seq1_Spirogyra_pra,
+		9 comp10525_c0_seq1_Mougeotia_sc,
+		10 comp40373_c4_seq1_Penium_marga,
+		11 comp5633_c0_seq2_Nitella_mirab,
+		12 comp29596_c0_seq1_Phaeophila_d,
+		13 115440529_Oryza_sativa__japoni,
+		14 gi|330252814|gb|AEC07908.1|_Ar,
+		15 comp3742_c0_seq2_Mesostigma_vi,
+		16 comp4769_c0_seq1_Klebsormidium,
+		17 comp27525_c0_seq1_Pyramimonas,
+		18 comp29455_c0_seq11_Prasiolopsi,
+		19 Chlamydomonas_reinhardtii_IspE,
+		20 comp20141_c0_seq1_Atractomorph,
+		21 comp28096_c1_seq1_Tetraselmis,
+		22 Ostreococcus_sp_CCE9901_IspE_3,
+		23 comp5546_c0_seq1_Nephroselmis,
+		24 comp58987_c0_seq1_Oedogonium_c,
+		25 comp25418_c0_seq1_Hormotilopsi,
+		26 comp13040_c0_seq1_Elakatothrix,
+		27 Cyanidioschyzon_merolae_10D_Is,
+		28 comp49369_c0_seq1_Phaeocystis,
+		29 comp74756_c1_seq3_Pleurochrysi,
+		30 comp72091_c0_seq1_Coccolithus,
+		31 comp18633_c0_seq2_Isochrysis_g,
+		32 jgi|Emihu1|461009|estExtDG_fge,
+		33 comp24837_c0_seq4_Gephyrocapsa,
+		34 comp89287_c0_seq1_Karenia_brev,
+		35 comp37878_c0_seq1_Prymnesium_p,
+		36 comp7661_c0_seq2_Guillardia_th,
+		37 comp89881_c3_seq1_Geminigera_c,
+		38 comp176232_c0_seq1_Karlodinium,
+		39 comp60961_c0_seq1_Noctiluca_sc,
+		40 comp46019_c0_seq1_Amphidinium,
+		41 comp129272_c1_seq1_Karenia_bre,
+		42 comp63835_c0_seq1_Dinophysis_a,
+		43 comp77531_c1_seq1_Heterocapsa,
+		44 comp38364_c0_seq1_Lingulodiniu,
+		45 comp36977_c7_seq4_Prorocentrum,
+		46 comp84759_c0_seq1_Crypthecodin,
+		47 comp105881_c0_seq1_Akashiwo_sa,
+		48 comp105041_c1_seq1_Scrippsiell,
+		49 comp168740_c0_seq2_Kryptoperid,
+		50 comp144824_c0_seq1_Glenodinium,
+		51 gi|510001365|gb|GAIT01018123.1,
+		52 comp84190_c1_seq1_Prorocentrum,
+		53 comp82270_c0_seq1_Baltimore_bl,
+		54 comp50512_c1_seq1_Prorocentrum,
+		55 comp249416_c6_seq3_Polarella_g,
+		56 kb8_c12863_Symbiodinium_sp_cla,
+		57 gi|452173962|gb|GAFP01007623.1,
+		58 Ectocarpus_siliculosus_IspE_29,
+		59 gi|480468956|gb|GAGR01005035.1,
+		60 gi|219115135|ref|XP_002178363.,
+		61 Thalassiosira_pseudonana_IspE,
+		62 comp21780_c0_seq1_Glenodinium,
+		63 comp150260_c0_seq1_Kryptoperid;
+	TREE Imported_tree_0 = (((27,6),(9,8,11,13,14,12,15,16,17,19,18,20,21,22,23,24,25,26,10),(28,30,31,32,34,35,33,29),(36,37),(3,39,40,41,42,43,44,45,46,47,48,49,51,50,53,52,54,55,56,57,38),(61,63,62,7,59,60,58)),(2,4,5,1));
+
+END;
+
+
+BEGIN TREES;
+	Title H3;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 33865587_Synechococcus_sp._WH,
+		2 33240214_Prochlorococcus_marin,
+		3 gi|171363677|dbj|BAG14387.1|_P,
+		4 75911083_Anabaena_variabilis_A,
+		5 37519671_Gloeobacter_violaceus,
+		6 Galdieria_sulphuraria_074W_Isp,
+		7 Aureococcus_anophagefferans_Is,
+		8 comp1609_c0_seq1_Spirogyra_pra,
+		9 comp10525_c0_seq1_Mougeotia_sc,
+		10 comp40373_c4_seq1_Penium_marga,
+		11 comp5633_c0_seq2_Nitella_mirab,
+		12 comp29596_c0_seq1_Phaeophila_d,
+		13 115440529_Oryza_sativa__japoni,
+		14 gi|330252814|gb|AEC07908.1|_Ar,
+		15 comp3742_c0_seq2_Mesostigma_vi,
+		16 comp4769_c0_seq1_Klebsormidium,
+		17 comp27525_c0_seq1_Pyramimonas,
+		18 comp29455_c0_seq11_Prasiolopsi,
+		19 Chlamydomonas_reinhardtii_IspE,
+		20 comp20141_c0_seq1_Atractomorph,
+		21 comp28096_c1_seq1_Tetraselmis,
+		22 Ostreococcus_sp_CCE9901_IspE_3,
+		23 comp5546_c0_seq1_Nephroselmis,
+		24 comp58987_c0_seq1_Oedogonium_c,
+		25 comp25418_c0_seq1_Hormotilopsi,
+		26 comp13040_c0_seq1_Elakatothrix,
+		27 Cyanidioschyzon_merolae_10D_Is,
+		28 comp49369_c0_seq1_Phaeocystis,
+		29 comp74756_c1_seq3_Pleurochrysi,
+		30 comp72091_c0_seq1_Coccolithus,
+		31 comp18633_c0_seq2_Isochrysis_g,
+		32 jgi|Emihu1|461009|estExtDG_fge,
+		33 comp24837_c0_seq4_Gephyrocapsa,
+		34 comp89287_c0_seq1_Karenia_brev,
+		35 comp37878_c0_seq1_Prymnesium_p,
+		36 comp7661_c0_seq2_Guillardia_th,
+		37 comp89881_c3_seq1_Geminigera_c,
+		38 comp176232_c0_seq1_Karlodinium,
+		39 comp60961_c0_seq1_Noctiluca_sc,
+		40 comp46019_c0_seq1_Amphidinium,
+		41 comp129272_c1_seq1_Karenia_bre,
+		42 comp63835_c0_seq1_Dinophysis_a,
+		43 comp77531_c1_seq1_Heterocapsa,
+		44 comp38364_c0_seq1_Lingulodiniu,
+		45 comp36977_c7_seq4_Prorocentrum,
+		46 comp84759_c0_seq1_Crypthecodin,
+		47 comp105881_c0_seq1_Akashiwo_sa,
+		48 comp105041_c1_seq1_Scrippsiell,
+		49 comp168740_c0_seq2_Kryptoperid,
+		50 comp144824_c0_seq1_Glenodinium,
+		51 gi|510001365|gb|GAIT01018123.1,
+		52 comp84190_c1_seq1_Prorocentrum,
+		53 comp82270_c0_seq1_Baltimore_bl,
+		54 comp50512_c1_seq1_Prorocentrum,
+		55 comp249416_c6_seq3_Polarella_g,
+		56 kb8_c12863_Symbiodinium_sp_cla,
+		57 gi|452173962|gb|GAFP01007623.1,
+		58 Ectocarpus_siliculosus_IspE_29,
+		59 gi|480468956|gb|GAGR01005035.1,
+		60 gi|219115135|ref|XP_002178363.,
+		61 Thalassiosira_pseudonana_IspE,
+		62 comp21780_c0_seq1_Glenodinium,
+		63 comp150260_c0_seq1_Kryptoperid;
+	TREE Imported_tree_0 = (((27,6),(9,8,11,13,14,12,15,16,17,19,18,20,21,22,23,24,25,26,10),(28,30,31,32,34,35,33,29),(36,37),(3,39,40,41,42,43,44,45,46,47,48,49,51,50,53,52,54,55,56,57,38),(61,63,62,7,59,60,58)),(2,4,5,1));
+
+END;
+
+
+BEGIN TREES;
+	Title H4;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 33865587_Synechococcus_sp._WH,
+		2 33240214_Prochlorococcus_marin,
+		3 gi|171363677|dbj|BAG14387.1|_P,
+		4 75911083_Anabaena_variabilis_A,
+		5 37519671_Gloeobacter_violaceus,
+		6 Galdieria_sulphuraria_074W_Isp,
+		7 Aureococcus_anophagefferans_Is,
+		8 comp1609_c0_seq1_Spirogyra_pra,
+		9 comp10525_c0_seq1_Mougeotia_sc,
+		10 comp40373_c4_seq1_Penium_marga,
+		11 comp5633_c0_seq2_Nitella_mirab,
+		12 comp29596_c0_seq1_Phaeophila_d,
+		13 115440529_Oryza_sativa__japoni,
+		14 gi|330252814|gb|AEC07908.1|_Ar,
+		15 comp3742_c0_seq2_Mesostigma_vi,
+		16 comp4769_c0_seq1_Klebsormidium,
+		17 comp27525_c0_seq1_Pyramimonas,
+		18 comp29455_c0_seq11_Prasiolopsi,
+		19 Chlamydomonas_reinhardtii_IspE,
+		20 comp20141_c0_seq1_Atractomorph,
+		21 comp28096_c1_seq1_Tetraselmis,
+		22 Ostreococcus_sp_CCE9901_IspE_3,
+		23 comp5546_c0_seq1_Nephroselmis,
+		24 comp58987_c0_seq1_Oedogonium_c,
+		25 comp25418_c0_seq1_Hormotilopsi,
+		26 comp13040_c0_seq1_Elakatothrix,
+		27 Cyanidioschyzon_merolae_10D_Is,
+		28 comp49369_c0_seq1_Phaeocystis,
+		29 comp74756_c1_seq3_Pleurochrysi,
+		30 comp72091_c0_seq1_Coccolithus,
+		31 comp18633_c0_seq2_Isochrysis_g,
+		32 jgi|Emihu1|461009|estExtDG_fge,
+		33 comp24837_c0_seq4_Gephyrocapsa,
+		34 comp89287_c0_seq1_Karenia_brev,
+		35 comp37878_c0_seq1_Prymnesium_p,
+		36 comp7661_c0_seq2_Guillardia_th,
+		37 comp89881_c3_seq1_Geminigera_c,
+		38 comp176232_c0_seq1_Karlodinium,
+		39 comp60961_c0_seq1_Noctiluca_sc,
+		40 comp46019_c0_seq1_Amphidinium,
+		41 comp129272_c1_seq1_Karenia_bre,
+		42 comp63835_c0_seq1_Dinophysis_a,
+		43 comp77531_c1_seq1_Heterocapsa,
+		44 comp38364_c0_seq1_Lingulodiniu,
+		45 comp36977_c7_seq4_Prorocentrum,
+		46 comp84759_c0_seq1_Crypthecodin,
+		47 comp105881_c0_seq1_Akashiwo_sa,
+		48 comp105041_c1_seq1_Scrippsiell,
+		49 comp168740_c0_seq2_Kryptoperid,
+		50 comp144824_c0_seq1_Glenodinium,
+		51 gi|510001365|gb|GAIT01018123.1,
+		52 comp84190_c1_seq1_Prorocentrum,
+		53 comp82270_c0_seq1_Baltimore_bl,
+		54 comp50512_c1_seq1_Prorocentrum,
+		55 comp249416_c6_seq3_Polarella_g,
+		56 kb8_c12863_Symbiodinium_sp_cla,
+		57 gi|452173962|gb|GAFP01007623.1,
+		58 Ectocarpus_siliculosus_IspE_29,
+		59 gi|480468956|gb|GAGR01005035.1,
+		60 gi|219115135|ref|XP_002178363.,
+		61 Thalassiosira_pseudonana_IspE,
+		62 comp21780_c0_seq1_Glenodinium,
+		63 comp150260_c0_seq1_Kryptoperid;
+	TREE Imported_tree_0 = (((27,6),(9,8,11,13,14,12,15,16,17,19,18,20,21,22,23,24,25,26,10),(28,30,31,32,34,35,33,29),(36,37),(3,39,40,41,42,43,44,45,46,47,48,49,51,50,53,52,54,55,56,57,38),(61,63,62,7,59,60,58)),(2,4,5,1));
+
+END;
+
+
+BEGIN TREES;
+	Title H5;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 33865587_Synechococcus_sp._WH,
+		2 33240214_Prochlorococcus_marin,
+		3 gi|171363677|dbj|BAG14387.1|_P,
+		4 75911083_Anabaena_variabilis_A,
+		5 37519671_Gloeobacter_violaceus,
+		6 Galdieria_sulphuraria_074W_Isp,
+		7 Aureococcus_anophagefferans_Is,
+		8 comp1609_c0_seq1_Spirogyra_pra,
+		9 comp10525_c0_seq1_Mougeotia_sc,
+		10 comp40373_c4_seq1_Penium_marga,
+		11 comp5633_c0_seq2_Nitella_mirab,
+		12 comp29596_c0_seq1_Phaeophila_d,
+		13 115440529_Oryza_sativa__japoni,
+		14 gi|330252814|gb|AEC07908.1|_Ar,
+		15 comp3742_c0_seq2_Mesostigma_vi,
+		16 comp4769_c0_seq1_Klebsormidium,
+		17 comp27525_c0_seq1_Pyramimonas,
+		18 comp29455_c0_seq11_Prasiolopsi,
+		19 Chlamydomonas_reinhardtii_IspE,
+		20 comp20141_c0_seq1_Atractomorph,
+		21 comp28096_c1_seq1_Tetraselmis,
+		22 Ostreococcus_sp_CCE9901_IspE_3,
+		23 comp5546_c0_seq1_Nephroselmis,
+		24 comp58987_c0_seq1_Oedogonium_c,
+		25 comp25418_c0_seq1_Hormotilopsi,
+		26 comp13040_c0_seq1_Elakatothrix,
+		27 Cyanidioschyzon_merolae_10D_Is,
+		28 comp49369_c0_seq1_Phaeocystis,
+		29 comp74756_c1_seq3_Pleurochrysi,
+		30 comp72091_c0_seq1_Coccolithus,
+		31 comp18633_c0_seq2_Isochrysis_g,
+		32 jgi|Emihu1|461009|estExtDG_fge,
+		33 comp24837_c0_seq4_Gephyrocapsa,
+		34 comp89287_c0_seq1_Karenia_brev,
+		35 comp37878_c0_seq1_Prymnesium_p,
+		36 comp7661_c0_seq2_Guillardia_th,
+		37 comp89881_c3_seq1_Geminigera_c,
+		38 comp176232_c0_seq1_Karlodinium,
+		39 comp60961_c0_seq1_Noctiluca_sc,
+		40 comp46019_c0_seq1_Amphidinium,
+		41 comp129272_c1_seq1_Karenia_bre,
+		42 comp63835_c0_seq1_Dinophysis_a,
+		43 comp77531_c1_seq1_Heterocapsa,
+		44 comp38364_c0_seq1_Lingulodiniu,
+		45 comp36977_c7_seq4_Prorocentrum,
+		46 comp84759_c0_seq1_Crypthecodin,
+		47 comp105881_c0_seq1_Akashiwo_sa,
+		48 comp105041_c1_seq1_Scrippsiell,
+		49 comp168740_c0_seq2_Kryptoperid,
+		50 comp144824_c0_seq1_Glenodinium,
+		51 gi|510001365|gb|GAIT01018123.1,
+		52 comp84190_c1_seq1_Prorocentrum,
+		53 comp82270_c0_seq1_Baltimore_bl,
+		54 comp50512_c1_seq1_Prorocentrum,
+		55 comp249416_c6_seq3_Polarella_g,
+		56 kb8_c12863_Symbiodinium_sp_cla,
+		57 gi|452173962|gb|GAFP01007623.1,
+		58 Ectocarpus_siliculosus_IspE_29,
+		59 gi|480468956|gb|GAGR01005035.1,
+		60 gi|219115135|ref|XP_002178363.,
+		61 Thalassiosira_pseudonana_IspE,
+		62 comp21780_c0_seq1_Glenodinium,
+		63 comp150260_c0_seq1_Kryptoperid;
+	TREE Imported_tree_0 = (((27,6),(9,8,11,13,14,12,15,16,17,19,18,20,21,22,23,24,25,26,10),(28,30,31,32,34,35,33,29),(36,37),(3,39,40,41,42,43,44,45,46,47,48,49,51,50,53,52,54,55,56,57,38),(61,63,62,7,59,60,58)),(2,4,5,1));
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1409601800311;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 2743002572944521012;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 1957874218937638688;
+			mqVersion 275;
+			checksumv 0 3 2418362136 null  getNumChars 386 numChars 386 getNumTaxa 63 numTaxa 63   short false   bits 1048575   states 1048575   sumSquaresStatesOnly 9.7131945965497E13 sumSquares 9.7131945965497E13 longCompressibleToShort false usingShortMatrix false   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 202;
+			setPopoutState 400;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1366 658;
+			setLocation -1 29;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #1957874218937638688 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					getTable;
+					tell It;
+						rowNamesWidth 154;
+					endTell;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1164 591;
+					setLocation -1 29;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					colorCells  #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges off;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames off;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize off;
+					toggleColorsPanel off;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.align.AlignToDropped.AlignToDropped;
+				tell It;
+					gapCosts 8 3 2 2;
+					subCosts  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5;
+				endTell;
+				getEmployee #mesquite.molec.SequenceInfoEditor.SequenceInfoEditor;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
